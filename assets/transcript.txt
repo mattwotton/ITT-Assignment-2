@@ -1,0 +1,3588 @@
+WEBVTT
+
+NOTE duration:"00:21:41.7600000"
+
+NOTE language:en-us
+
+NOTE Confidence: 0.8322502
+
+43adf807-efa9-43ed-b475-5891877d3c16
+00:00:02.540 --> 00:00:04.631
+No problem alright.
+
+NOTE Confidence: 0.8322502
+
+f2482e53-c689-43b3-b82c-7432ec0bd588
+00:00:04.631 --> 00:00:08.813
+Hi Daniel, thank you for taking.
+
+NOTE Confidence: 0.8322502
+
+83a56cb6-5113-4495-8a10-590c98341007
+00:00:08.820 --> 00:00:10.759
+The time out of your busy schedule
+
+NOTE Confidence: 0.8322502
+
+d3fd5903-8ede-4452-be14-5f073443db65
+00:00:10.759 --> 00:00:12.777
+on behalf of my team and myself,
+
+NOTE Confidence: 0.8322502
+
+7b79df1b-380b-480a-bb63-b92a5bc31fc1
+00:00:12.780 --> 00:00:14.994
+we are very grateful for this
+
+NOTE Confidence: 0.8322502
+
+0d89495b-f5bd-4ee5-b133-5f5d69f4ccaf
+00:00:14.994 --> 00:00:16.470
+opportunity to interview you.
+
+NOTE Confidence: 0.8322502
+
+3437e7f3-430d-491f-9744-bdac3ea55c9c
+00:00:16.470 --> 00:00:17.670
+No problem its my pleasure. 
+
+NOTE Confidence: 0.8966002
+
+4a88f288-2550-47fc-960e-b62056875a31
+00:00:20.130 --> 00:00:22.066
+So please can you tell us about your
+
+NOTE Confidence: 0.8966002
+
+fe1baba2-976e-4f92-8f42-1593c9fe8909
+00:00:22.066 --> 00:00:24.099
+IT work and what exactly do you do?
+
+NOTE Confidence: 0.8966002
+
+dfbde204-497d-4d85-b5f2-4cc41f5ab138
+00:00:24.100 --> 00:00:26.120
+What is your industry?
+
+NOTE Confidence: 0.8966002
+
+29c56a66-a30e-401c-b143-53fa988a647d
+00:00:26.120 --> 00:00:28.766
+So I currently work for Waymo,
+
+NOTE Confidence: 0.8966002
+
+36f90712-3610-413a-a218-6583f6af870d
+00:00:28.770 --> 00:00:31.410
+which is the self-driving of Google,
+
+NOTE Confidence: 0.8966002
+
+dcbf186b-0c50-4d3d-ad9c-6d20d0e1ca61
+00:00:31.410 --> 00:00:33.300
+and so it's technically called
+
+NOTE Confidence: 0.8966002
+
+b144003b-7ceb-4026-a013-d3f060de5380
+00:00:33.300 --> 00:00:35.190
+like a technology industry where
+
+NOTE Confidence: 0.8966002
+
+d52cb08e-11e1-4e5c-a79b-2b27c594aaef
+00:00:35.250 --> 00:00:36.816
+we're developing self-driving
+
+NOTE Confidence: 0.8966002
+
+3d28cd04-f7d9-45d2-8608-32f55ff3b4cc
+00:00:36.816 --> 00:00:38.904
+technology for for automobiles.
+
+NOTE Confidence: 0.8966002
+
+814cc85e-3294-4bb9-9372-04a50264c7aa
+00:00:38.910 --> 00:00:42.081
+But it also sort of ventures into
+
+NOTE Confidence: 0.8966002
+
+b50199aa-c0b3-450a-b744-df2c22f9dd73
+00:00:42.081 --> 00:00:44.200
+the automotive space as well.
+
+NOTE Confidence: 0.8966002
+
+e7a0ae15-2c75-415a-81b7-196ab4b90492
+00:00:44.200 --> 00:00:47.410
+So it's like automotive advanced technology
+
+NOTE Confidence: 0.8966002
+
+a43aca66-e790-4db8-8fcb-8a38f04f6e1b
+00:00:47.410 --> 00:00:51.710
+is probably what I would call the industry.
+
+NOTE Confidence: 0.8966002
+
+bfd0cc36-b4e5-44e5-8ae0-1cf68284273c
+00:00:51.710 --> 00:00:53.168
+We've seen waymo.
+
+NOTE Confidence: 0.8966002
+
+820a2dbe-a3a2-4617-8787-891909c277ad
+00:00:53.168 --> 00:00:56.570
+I work as the systems engineering manager.
+
+NOTE Confidence: 0.8966002
+
+759f316a-cbc9-4678-baf0-859c0c15a8d7
+00:00:56.570 --> 00:00:59.194
+So we have a few different groups that
+
+NOTE Confidence: 0.8966002
+
+a0d3e16f-39bd-45b0-8daf-7cddcf8f79be
+00:00:59.194 --> 00:01:01.434
+do systems engineering for different
+
+NOTE Confidence: 0.8966002
+
+afaa96dd-34df-407b-b0c4-492970f2916b
+00:01:01.434 --> 00:01:03.949
+parts of the self-driving vehicle.
+
+NOTE Confidence: 0.8966002
+
+be905c76-9845-476e-8ed3-aa18299d0db9
+00:01:03.950 --> 00:01:06.736
+My group is responsible for all of
+
+NOTE Confidence: 0.8966002
+
+d6f597ca-2d30-499b-956b-9c89369a1f4a
+00:01:06.736 --> 00:01:08.410
+the systems engineering activities
+
+NOTE Confidence: 0.8966002
+
+fbe3ff37-0a59-419d-ba11-4dff1c5f0079
+00:01:08.410 --> 00:01:11.245
+for the car that we developed with
+
+NOTE Confidence: 0.8966002
+
+5400ae60-73ec-491b-8df3-b35447769a90
+00:01:11.245 --> 00:01:13.777
+car companies that we integrate our
+
+NOTE Confidence: 0.8966002
+
+05e86dcb-e9d6-4dad-985a-27dcbfd9a7e7
+00:01:13.777 --> 00:01:15.837
+self-driving system onto and so.
+
+NOTE Confidence: 0.8533691
+
+f17de4cf-7035-46c4-91d4-dcc764cc822b
+00:01:18.070 --> 00:01:20.093
+The for example, if you just walk
+
+NOTE Confidence: 0.8533691
+
+87a8b548-1560-49e3-93df-c23796501c8b
+00:01:20.093 --> 00:01:21.809
+into a dealership and buy a car,
+
+NOTE Confidence: 0.8533691
+
+01797b66-f64a-46a0-9cc6-e66fb2fc02a0
+00:01:21.810 --> 00:01:23.679
+that car isn't ready for self driving.
+
+NOTE Confidence: 0.8533691
+
+f78c46e0-2c23-4939-9b2f-ec2d4f3a7213
+00:01:23.680 --> 00:01:25.816
+You have to make quite a lot of
+
+NOTE Confidence: 0.8533691
+
+5e0b0fca-a090-4b45-b979-46ce1c17901f
+00:01:25.816 --> 00:01:27.450
+modifications to a regular car to
+
+NOTE Confidence: 0.8533691
+
+c5b3462c-f1c4-42db-ad6e-e537eaee39f3
+00:01:27.450 --> 00:01:29.016
+get it ready for self driving.
+
+NOTE Confidence: 0.8533691
+
+062a3539-39fe-464e-bdc7-9d40649d801f
+00:01:29.020 --> 00:01:30.847
+You need to make it so that we can
+
+NOTE Confidence: 0.8533691
+
+dd8ff783-3a3b-43b9-ac2f-80530e3239ed
+00:01:30.847 --> 00:01:32.124
+plug our self-driving computer
+
+NOTE Confidence: 0.8533691
+
+8e782661-ee7b-42c5-bf7a-dfe385be319b
+00:01:32.124 --> 00:01:33.819
+in and control the brakes.
+
+NOTE Confidence: 0.8533691
+
+a44e70d9-47d5-452b-b35d-f684d7e5dfe1
+00:01:33.820 --> 00:01:34.615
+Control the steering,
+
+NOTE Confidence: 0.8533691
+
+94a5408e-0292-4c8f-a0cc-29f677d96a84
+00:01:34.615 --> 00:01:36.470
+all that kind of stuff and all
+
+NOTE Confidence: 0.8533691
+
+f54dc1d3-9275-4790-975b-70dfd5d8a87a
+00:01:36.520 --> 00:01:38.098
+the systems need to have power.
+
+NOTE Confidence: 0.8533691
+
+ffe3b7e3-8869-48f2-a502-969e0f990277
+00:01:38.100 --> 00:01:39.690
+They need to be operate able
+
+NOTE Confidence: 0.8533691
+
+aebae8db-ee6c-47ac-98d8-7339b75ffb92
+00:01:39.690 --> 00:01:41.030
+to operate on their own.
+
+NOTE Confidence: 0.8533691
+
+72865c11-851d-42a4-9fd4-d6a14edd1a6b
+00:01:41.030 --> 00:01:42.030
+Obviously without a human.
+
+NOTE Confidence: 0.8533691
+
+e70e5cc2-bc04-4885-aa9e-57e95228d1e4
+00:01:42.030 --> 00:01:44.432
+And so we have to make quite a lot
+
+NOTE Confidence: 0.8533691
+
+4b0021cd-a231-405f-b282-7c251b7b3363
+00:01:44.432 --> 00:01:45.837
+of modifications to the vehicle,
+
+NOTE Confidence: 0.8533691
+
+8f3bac03-cd8e-4ff6-950f-a0c35d0a032b
+00:01:45.840 --> 00:01:47.891
+and so my team is responsible for
+
+NOTE Confidence: 0.8533691
+
+5081e69f-40e9-4aa0-bd1f-586de26fb5ed
+00:01:47.891 --> 00:01:49.730
+making sure that those modifications
+
+NOTE Confidence: 0.8533691
+
+b34b7405-8bb6-4608-a555-ba3d2379f885
+00:01:49.730 --> 00:01:51.526
+are carried out correctly.
+
+NOTE Confidence: 0.8533691
+
+031c8106-ec24-45cc-952f-2b316c26e5c2
+00:01:51.530 --> 00:01:54.218
+Such that we can make a
+
+NOTE Confidence: 0.8533691
+
+92256849-71b0-4ec2-967c-c2d96e38bfa3
+00:01:54.218 --> 00:01:55.562
+full self-driving car.
+
+NOTE Confidence: 0.8533691
+
+b592e421-1f36-41ce-adf8-fa094a4514a0
+00:01:55.570 --> 00:01:58.590
+That sounds so interesting.
+
+NOTE Confidence: 0.8533691
+
+968bde2f-b95e-4739-aff5-a2054f37dc83
+00:01:58.590 --> 00:02:01.134
+So what was the most challenging
+
+NOTE Confidence: 0.8533691
+
+34dfa240-afc8-4dfc-9ab5-0076026dea5e
+00:02:01.134 --> 00:02:03.191
+technological innovation you had to
+
+NOTE Confidence: 0.8533691
+
+95f12d95-4997-4a63-8ffd-c9036c31fc6a
+00:02:03.191 --> 00:02:05.535
+overcome to get to the end product of
+
+NOTE Confidence: 0.8533691
+
+0e4bbab1-0e8b-4b95-8486-ea167192f8a6
+00:02:05.535 --> 00:02:07.971
+self driving cars and what was the
+
+NOTE Confidence: 0.8533691
+
+cce29e1b-c554-44e1-b559-2b3721dce36e
+00:02:07.971 --> 00:02:09.720
+process to overcome the challenge?
+
+NOTE Confidence: 0.8906946
+
+18f4822b-475d-4fa2-8039-736ad3f00e74
+00:02:12.010 --> 00:02:14.220
+So that's a good question.
+
+NOTE Confidence: 0.8906946
+
+b7af09ab-bf71-4b35-a832-bf1e996aface
+00:02:14.220 --> 00:02:18.756
+So at least in my area.
+
+NOTE Confidence: 0.8906946
+
+d14416b5-815d-4318-ac69-1d29d058152e
+00:02:18.760 --> 00:02:21.016
+I think there's there's a few
+
+NOTE Confidence: 0.8906946
+
+f6eeda70-5eb8-4dc5-9f58-e58517d83727
+00:02:21.016 --> 00:02:22.144
+major technical technological
+
+NOTE Confidence: 0.8906946
+
+4406991b-72f5-4980-b51f-47aa6a67956a
+00:02:22.144 --> 00:02:23.916
+challenges that have to be overcome.
+
+NOTE Confidence: 0.8906946
+
+2b42d37f-ca1d-4166-b016-693878277c3f
+00:02:23.920 --> 00:02:26.664
+One is the the basic problem of autonomy,
+
+NOTE Confidence: 0.8906946
+
+4a71ee62-2950-46da-b8b8-584b4b78786e
+00:02:26.670 --> 00:02:29.230
+where you need to.
+
+NOTE Confidence: 0.8906946
+
+73c07eab-9549-49e7-af6b-bfe8051eb18c
+00:02:29.230 --> 00:02:31.099
+Well, let me take a step back.
+
+NOTE Confidence: 0.8906946
+
+587da33c-2641-4088-a202-ee26286fdee5
+00:02:31.100 --> 00:02:32.990
+If you breakdown the action of of
+
+NOTE Confidence: 0.8906946
+
+8e6ce6ab-9094-408f-8e0c-4f522b31b68b
+00:02:32.990 --> 00:02:35.097
+driving like the way we drive as humans,
+
+NOTE Confidence: 0.8906946
+
+e77c5b2e-5b83-4304-b03f-98fbe6f55eb1
+00:02:35.100 --> 00:02:36.850
+it's usually broken up into the ability
+
+NOTE Confidence: 0.8906946
+
+c732f767-01b0-4421-8083-289b26a2e637
+00:02:36.850 --> 00:02:39.106
+to see the world and perceive the world.
+
+NOTE Confidence: 0.8906946
+
+6d5c79f1-da32-4a69-b8ab-ffea085d128f
+00:02:39.110 --> 00:02:40.979
+So it's not only seeing visual wise,
+
+NOTE Confidence: 0.8906946
+
+4e012dac-579f-4dd6-961b-b3d9266d6585
+00:02:40.980 --> 00:02:42.504
+but you also hear the things
+
+NOTE Confidence: 0.8906946
+
+ffd0ae58-0777-45e7-80f1-91c68f5dacbd
+00:02:42.504 --> 00:02:44.410
+around you and you taking all this
+
+NOTE Confidence: 0.8906946
+
+827e3ea6-5cd8-4ccd-9970-2bbfdbf6a09c
+00:02:44.410 --> 00:02:46.066
+data to understand what to create
+
+NOTE Confidence: 0.8906946
+
+985a4e33-a510-4050-a332-d7f061b1f63b
+00:02:46.066 --> 00:02:47.920
+a scene of where you are like.
+
+NOTE Confidence: 0.8906946
+
+65a4385b-12c9-47fc-8dde-d07ff421ed5d
+00:02:47.920 --> 00:02:49.789
+I've got cars in front of me.
+
+NOTE Confidence: 0.8906946
+
+5bb15702-7aa1-41b2-9815-a01ed6806749
+00:02:49.790 --> 00:02:51.398
+I've got bikes on the left
+
+NOTE Confidence: 0.8906946
+
+554909b3-f748-4196-b77c-6d68e9671e22
+00:02:51.398 --> 00:02:52.730
+of the right of me,
+
+NOTE Confidence: 0.8906946
+
+35285134-f6a5-475f-8a38-288a269825aa
+00:02:52.730 --> 00:02:54.060
+but traffic lights ahead tell
+
+NOTE Confidence: 0.8906946
+
+28e534f2-a9a8-4f5d-aaf4-e532aabc5b05
+00:02:54.060 --> 00:02:55.124
+me telling me information.
+
+NOTE Confidence: 0.8906946
+
+f6fbb5fb-cc91-4d38-b843-031607518ddd
+00:02:55.130 --> 00:02:57.758
+So you're taking all this information.
+
+NOTE Confidence: 0.8906946
+
+dc55e252-6567-40b4-b243-310c0b28bce9
+00:02:57.760 --> 00:02:59.962
+You develop an understanding of the
+
+NOTE Confidence: 0.8906946
+
+75772ee4-e54d-43a5-801e-620b51901660
+00:02:59.962 --> 00:03:02.698
+scene and then you make a decision about
+
+NOTE Confidence: 0.8906946
+
+03e8775a-ae3e-4490-90f7-7c231f8e6e5e
+00:03:02.698 --> 00:03:05.718
+what to do and so that act of basically.
+
+NOTE Confidence: 0.8906946
+
+edc92b4a-0270-4535-856d-e763b93660b8
+00:03:05.720 --> 00:03:06.881
+Taking the information,
+
+NOTE Confidence: 0.8906946
+
+2e51c85d-85d6-4b44-b7b4-9a7518f56e1f
+00:03:06.881 --> 00:03:08.816
+creating the scene and then
+
+NOTE Confidence: 0.8906946
+
+fbe47bb6-4f3c-412e-a97f-4c480073ba68
+00:03:08.816 --> 00:03:10.847
+deciding what to do based on that,
+
+NOTE Confidence: 0.8906946
+
+8153b0d2-1c05-4c26-8118-deb2cbf69be3
+00:03:10.850 --> 00:03:13.706
+I think is probably the hardest problem
+
+NOTE Confidence: 0.8906946
+
+c586ea03-761b-496d-ba58-6d73e5975ff8
+00:03:13.706 --> 00:03:16.757
+to overcome with respect to self driving.
+
+NOTE Confidence: 0.8906946
+
+f6f02af6-ed0c-449a-ac02-53992e76298b
+00:03:16.760 --> 00:03:18.468
+My team is not so involved in
+
+NOTE Confidence: 0.8906946
+
+07f276f9-73ce-4ca2-b920-ab11200d21fe
+00:03:18.468 --> 00:03:19.778
+the autonomy decision side of it.
+
+NOTE Confidence: 0.8906946
+
+38fb5c51-abbc-438a-aad8-9a9c52bbb088
+00:03:19.780 --> 00:03:21.712
+So do you want to hear more
+
+NOTE Confidence: 0.8906946
+
+6c115433-ac0c-47c6-bbd8-46f2d53a8ed4
+00:03:21.712 --> 00:03:23.827
+about like my what my team does?
+
+NOTE Confidence: 0.8906946
+
+fc78efd2-fa3e-4e00-9dfb-1c4e6db5d465
+00:03:23.830 --> 00:03:26.246
+No, like about this challenge in that area.
+
+NOTE Confidence: 0.8906946
+
+d9a0e940-d43f-42b6-81b2-761423e20b2e
+00:03:26.250 --> 00:03:27.606
+Yeah, definitely yeah.
+
+NOTE Confidence: 0.8906946
+
+a368b8eb-601c-4adb-8575-43418bbf827f
+00:03:27.606 --> 00:03:28.058
+OK,
+
+NOTE Confidence: 0.8906946
+
+652c40b3-88c5-4d7e-85a8-c3d22805a729
+00:03:28.058 --> 00:03:30.770
+so I think the hardest challenge
+
+NOTE Confidence: 0.8906946
+
+d0d35a4c-a94e-48a0-ac36-558dd8de139a
+00:03:30.847 --> 00:03:32.580
+in my area is. It's twofold.
+
+NOTE Confidence: 0.8906946
+
+7b2234b4-4933-4a90-ba93-ab941ffa6ecc
+00:03:32.580 --> 00:03:34.560
+The first one is self-driving systems.
+
+NOTE Confidence: 0.8906946
+
+5cde772c-307f-413c-8a71-1b4f1e6106c9
+00:03:34.560 --> 00:03:37.045
+At the moment are quite resource heavy
+
+NOTE Confidence: 0.8906946
+
+2d8c14ea-7a55-410b-9aa4-2f0907f53020
+00:03:37.045 --> 00:03:39.510
+in that they use a lot of power,
+
+NOTE Confidence: 0.8906946
+
+59c84cc6-979f-4c9d-bcfa-0e57bbf27424
+00:03:39.510 --> 00:03:44.172
+and they send a lot of information and so.
+
+NOTE Confidence: 0.8906946
+
+98392b47-36b5-4fbe-ae22-9f520b5d537d
+00:03:44.180 --> 00:03:45.270
+Modifying vehicles.
+
+NOTE Confidence: 0.8906946
+
+c2503fd9-bf83-4b4d-af25-fee2d33adaed
+00:03:45.270 --> 00:03:49.630
+To be able to to support those demands,
+
+NOTE Confidence: 0.8906946
+
+2c67f49b-bcc2-4d62-8789-4c874d238627
+00:03:49.630 --> 00:03:52.160
+both from power and communication
+
+NOTE Confidence: 0.8906946
+
+0fc320dc-6e5d-4bef-9c27-24126a2779a7
+00:03:52.160 --> 00:03:54.690
+site is quite challenging where?
+
+NOTE Confidence: 0.8906946
+
+54b5b635-6223-4654-a9d8-cb384f907acc
+00:03:54.690 --> 00:03:55.042
+Uhm?
+
+NOTE Confidence: 0.8906946
+
+ef107e6a-de24-4b66-ba21-94d251e8b4df
+00:03:55.042 --> 00:03:57.154
+That's imagine you're bolting on a
+
+NOTE Confidence: 0.8906946
+
+6cec44a0-1945-4666-8bdc-322e5195651c
+00:03:57.154 --> 00:03:59.270
+supercomputer onto a everyday vehicle.
+
+NOTE Confidence: 0.8906946
+
+40ee22db-43b7-4f0c-b470-6ec386224005
+00:03:59.270 --> 00:04:00.830
+There's quite a lot of modification
+
+NOTE Confidence: 0.8906946
+
+ddcb16ee-d4ac-4f5d-a54b-c13afdf9be1e
+00:04:00.830 --> 00:04:02.220
+that has to take place,
+
+NOTE Confidence: 0.8906946
+
+2fa10fc2-2cbc-4be8-b77b-48e0c0540416
+00:04:02.220 --> 00:04:04.900
+and so doing that in a way that doesn't run,
+
+NOTE Confidence: 0.8906946
+
+5536249c-de09-4b60-af87-a4f152792dd8
+00:04:04.900 --> 00:04:07.036
+you know the fuel efficiency of the vehicle,
+
+NOTE Confidence: 0.8906946
+
+4d08de56-677a-43d0-a5bc-adf48c3ca263
+00:04:07.040 --> 00:04:08.648
+or it doesn't make it unsafe,
+
+NOTE Confidence: 0.8906946
+
+3627de6a-e200-42a5-b65a-7313234e7649
+00:04:08.650 --> 00:04:10.444
+or you can still actually put
+
+NOTE Confidence: 0.8906946
+
+1b8d504e-3a61-4e28-9ad6-06fbf61598b4
+00:04:10.444 --> 00:04:12.377
+people in the vehicle because you
+
+NOTE Confidence: 0.8906946
+
+1346245e-959b-493f-91d0-2cd805350dc5
+00:04:12.377 --> 00:04:14.387
+haven't taken up all the space
+
+NOTE Confidence: 0.8906946
+
+ccb2d0b1-c285-4e57-8466-aac75470bd0d
+00:04:14.387 --> 00:04:15.939
+with batteries and computers.
+
+NOTE Confidence: 0.8906946
+
+8a0e2d4b-a64c-45bb-9419-df3e7c78ec7f
+00:04:15.940 --> 00:04:17.948
+That's one major challenge,
+
+NOTE Confidence: 0.8906946
+
+b91d38ab-42f2-4e6f-b998-807bbe49dfeb
+00:04:17.948 --> 00:04:20.458
+another one I'd say is.
+
+NOTE Confidence: 0.8906946
+
+6ff02d61-5110-41bf-b248-be2b6e3c2757
+00:04:20.460 --> 00:04:22.609
+Being able to prove that the vehicle
+
+NOTE Confidence: 0.8906946
+
+6c37fa3c-746c-4af4-ae0b-cf9d9f8afe76
+00:04:22.609 --> 00:04:24.746
+is safe enough when you take the
+
+NOTE Confidence: 0.8906946
+
+66ee4859-951e-44e5-8445-cab44e2a6b7a
+00:04:24.746 --> 00:04:26.480
+the person out of the vehicle.
+
+NOTE Confidence: 0.8906946
+
+b32bcc50-f190-4aff-9d9a-3ef3fafaaba5
+00:04:26.480 --> 00:04:28.568
+And so there's quite a lot
+
+NOTE Confidence: 0.8906946
+
+536c8239-2218-4f90-a85c-d2eb8f6a09e9
+00:04:28.568 --> 00:04:29.960
+of things today that.
+
+NOTE Confidence: 0.8906946
+
+68a1bac0-3b57-4e19-ad83-bbdd82982e60
+00:04:29.960 --> 00:04:31.676
+The car companies depend on the
+
+NOTE Confidence: 0.8906946
+
+06e9e969-e043-402d-8ee2-5ae2917dab46
+00:04:31.676 --> 00:04:34.072
+human to do so, like if for example,
+
+NOTE Confidence: 0.8906946
+
+0d02509e-78de-499a-b696-bb55d7419d8c
+00:04:34.072 --> 00:04:36.820
+if you have a problem with your brakes.
+
+NOTE Confidence: 0.8906946
+
+3a3a0ee0-6530-4320-b1ab-60214ee31e3b
+00:04:36.820 --> 00:04:39.316
+They expect you to push on the brakes
+
+NOTE Confidence: 0.8906946
+
+533aca89-9efe-40f8-bbe8-d6dae9ae17dd
+00:04:39.316 --> 00:04:41.566
+manually and stop the vehicle or to
+
+NOTE Confidence: 0.8906946
+
+a7e834a3-e177-489f-9ce4-aa1a877e0dbe
+00:04:41.566 --> 00:04:43.879
+steer the wheel manually in sand steal.
+
+NOTE Confidence: 0.8906946
+
+5c0292bc-c78f-4c00-abf6-e39cf485fffa
+00:04:43.880 --> 00:04:47.216
+The vehicle wears in a self driving car.
+
+NOTE Confidence: 0.8906946
+
+8123c9ed-9929-43be-a4f9-6faf20aa3753
+00:04:47.220 --> 00:04:49.208
+If you know you lose all your
+
+NOTE Confidence: 0.8906946
+
+00deab99-24f0-4e6e-be3f-1ea0d3c84a2e
+00:04:49.208 --> 00:04:50.060
+power to everything,
+
+NOTE Confidence: 0.8906946
+
+d8250072-3551-4ac4-b3fb-36adf1f8a028
+00:04:50.060 --> 00:04:51.405
+you don't necessarily have the
+
+NOTE Confidence: 0.8906946
+
+6db1df1c-8e3c-4436-82b8-e9d9cd32d246
+00:04:51.405 --> 00:04:53.702
+human as a backup to to to take
+
+NOTE Confidence: 0.8906946
+
+c76185c0-c9d1-4774-a757-024e2139e1fc
+00:04:53.702 --> 00:04:54.599
+that mitigating action,
+
+NOTE Confidence: 0.8906946
+
+5577181b-1350-43d3-b237-ec7f204711a9
+00:04:54.600 --> 00:04:56.707
+so being able to figure out how
+
+NOTE Confidence: 0.8906946
+
+0dfda99d-dd07-4eab-86dc-a4b5a9fbe187
+00:04:56.707 --> 00:04:59.383
+to design the car such that it can
+
+NOTE Confidence: 0.8906946
+
+b473c929-3f32-4b62-ad00-5c001e1b8036
+00:04:59.383 --> 00:05:01.088
+take that mitigating action is
+
+NOTE Confidence: 0.8514853
+
+269679dd-5828-4c90-a9d4-373e4c5774d2
+00:05:01.158 --> 00:05:02.430
+is a big challenge.
+
+NOTE Confidence: 0.8514853
+
+3b473729-eb1e-44c5-a3c9-dee6b3640b0d
+00:05:02.430 --> 00:05:04.005
+You asked the second part of your
+
+NOTE Confidence: 0.8514853
+
+f0a987a6-fc44-4790-be4a-784d5f56980c
+00:05:04.005 --> 00:05:05.825
+question was how did we what was the
+
+NOTE Confidence: 0.8514853
+
+765fc28d-593b-46ae-ad06-b85c7b4e8349
+00:05:05.825 --> 00:05:07.469
+process we follow to overcome that right?
+
+NOTE Confidence: 0.8514853
+
+d428fd59-9363-4f1d-9345-17e5a32856cb
+00:05:07.470 --> 00:05:11.680
+Yep OK, so the process.
+
+NOTE Confidence: 0.8514853
+
+116f66e1-c00c-4a3e-9233-865c3e9169e7
+00:05:11.680 --> 00:05:14.459
+We follow is the systems engineering process,
+
+NOTE Confidence: 0.8514853
+
+9ff2db8c-2812-46d1-ae74-5d8ffb8e7013
+00:05:14.460 --> 00:05:17.330
+which is known as the systems engineering
+
+NOTE Confidence: 0.8514853
+
+f6276d64-f438-41a4-82c6-60feefa19cb0
+00:05:17.330 --> 00:05:21.008
+V and that consists of starting out with.
+
+NOTE Confidence: 0.8514853
+
+668039fe-ba46-4465-9b09-8784b2cf0b76
+00:05:21.010 --> 00:05:22.365
+I'm supplied high level analysis
+
+NOTE Confidence: 0.8514853
+
+6c118704-15ed-4bcc-a81c-6c2a6cedf197
+00:05:22.365 --> 00:05:24.229
+of what the use cases are like,
+
+NOTE Confidence: 0.8514853
+
+de0a7e56-92f0-4d10-bd7a-502d0d7ff7e4
+00:05:24.230 --> 00:05:26.099
+how the product is going to be,
+
+NOTE Confidence: 0.8514853
+
+58d0897b-d708-4606-be0d-cb37d50a869c
+00:05:26.100 --> 00:05:28.196
+how the system in the product is going
+
+NOTE Confidence: 0.8514853
+
+dc9a0772-c9f8-46b0-9833-39e1c4ec4404
+00:05:28.196 --> 00:05:30.389
+to be used out in the real world,
+
+NOTE Confidence: 0.8514853
+
+43552772-4012-49d8-98bc-2689e0d25c97
+00:05:30.390 --> 00:05:31.992
+and then we identify things that
+
+NOTE Confidence: 0.8514853
+
+c077c79c-8f20-4a90-94b0-1c500801d748
+00:05:31.992 --> 00:05:33.328
+are called hazards, like what?
+
+NOTE Confidence: 0.8514853
+
+f4bd06fe-2f89-46c9-aee5-90ffb39fb7b1
+00:05:33.328 --> 00:05:36.019
+What are all the ways that it could be wrong?
+
+NOTE Confidence: 0.8514853
+
+c4b46a82-0f4f-4f26-b2df-dabc7a22585a
+00:05:36.020 --> 00:05:37.889
+What are external stimuli in the system,
+
+NOTE Confidence: 0.8514853
+
+b562bfbb-0019-498c-b1e5-fd3d0a7d740d
+00:05:37.890 --> 00:05:39.498
+which would which could cause false.
+
+NOTE Confidence: 0.8514853
+
+1b280218-d2fc-4de4-94b7-e617a07b6499
+00:05:39.500 --> 00:05:40.600
+These kinds of things.
+
+NOTE Confidence: 0.8514853
+
+2377c0a2-302b-4b3c-915d-acfd86c835b8
+00:05:40.600 --> 00:05:41.975
+And then you see systematically
+
+NOTE Confidence: 0.8514853
+
+b2964423-f400-4130-853f-b225b8ea3eee
+00:05:41.975 --> 00:05:43.520
+worked out through down that list.
+
+NOTE Confidence: 0.8514853
+
+e28f0b87-fa26-4c1d-8458-5e38cf2b1e38
+00:05:43.520 --> 00:05:45.749
+Then you identify.
+
+NOTE Confidence: 0.8514853
+
+3c688697-e1b5-4c0d-a756-efed06e60c12
+00:05:45.750 --> 00:05:46.728
+Mean reasonable mitigations
+
+NOTE Confidence: 0.8514853
+
+3fd9d557-2dc6-4fac-bb1f-09f871a12211
+00:05:46.728 --> 00:05:48.684
+to say if this goes wrong,
+
+NOTE Confidence: 0.8514853
+
+862385d9-d6e4-4a13-9c9b-f304d5cda297
+00:05:48.690 --> 00:05:50.727
+the system will do this to to
+
+NOTE Confidence: 0.8514853
+
+755a88a6-47d2-4393-b433-630d6581f194
+00:05:50.727 --> 00:05:52.760
+make sure that we're still acting
+
+NOTE Confidence: 0.8514853
+
+ecd50453-2eef-4bac-95b6-1c50fe989e4c
+00:05:52.760 --> 00:05:54.580
+in a Safeway for example.
+
+NOTE Confidence: 0.8514853
+
+1e1ccd6d-452a-4d07-a7f7-693c59fbca85
+00:05:54.580 --> 00:05:55.486
+So for example,
+
+NOTE Confidence: 0.8514853
+
+c17fa601-3f9e-4cdd-a027-f69741f16564
+00:05:55.486 --> 00:05:58.499
+if power if we lose power in ones system,
+
+NOTE Confidence: 0.8514853
+
+ff7b4b84-5530-415d-8c45-2fa76492664c
+00:05:58.500 --> 00:06:00.932
+we have like a backup power source so
+
+NOTE Confidence: 0.8514853
+
+3475e283-ff73-416a-8a41-b08c92ac1a4f
+00:06:00.932 --> 00:06:03.556
+that it can step in and still provide
+
+NOTE Confidence: 0.8514853
+
+88967d86-968d-4c4f-842b-d30719c6e4f5
+00:06:03.556 --> 00:06:06.279
+power to the brain to keep thinking and
+
+NOTE Confidence: 0.8514853
+
+247519f0-8c5c-487a-8a44-48db4f5f3e31
+00:06:06.279 --> 00:06:09.276
+keep the car driving and that kind of thing.
+
+NOTE Confidence: 0.8514853
+
+141ea6a8-a0a1-4db0-b331-1ff14859567d
+00:06:09.276 --> 00:06:11.208
+And so that's the the basic
+
+NOTE Confidence: 0.8514853
+
+59342edf-b99f-46e3-890a-dd6e7b092267
+00:06:11.208 --> 00:06:12.560
+process that we follow.
+
+NOTE Confidence: 0.8514853
+
+152d45a8-910e-4a9e-b6fc-80b700272257
+00:06:12.560 --> 00:06:15.428
+OK, thank you also.
+
+NOTE Confidence: 0.8514853
+
+38078507-b865-45a9-9f6f-83eda0872176
+00:06:15.430 --> 00:06:17.362
+All the different people in your
+
+NOTE Confidence: 0.8514853
+
+f30f6616-bf95-4937-8637-003c26d8883b
+00:06:17.362 --> 00:06:19.468
+that you interact with in your work.
+
+NOTE Confidence: 0.8514853
+
+fd74f5de-07c4-483f-a0db-61ff30e23dc6
+00:06:19.470 --> 00:06:21.718
+Can you tell us about them and we're
+
+NOTE Confidence: 0.8514853
+
+1841b4e9-8543-48fb-bfb0-ba32d0fa5d77
+00:06:21.718 --> 00:06:23.689
+interested to know how many people
+
+NOTE Confidence: 0.8514853
+
+fea7958c-d67f-494d-8afe-73c8c5f4c979
+00:06:23.689 --> 00:06:25.374
+are involved in making decisions.
+
+NOTE Confidence: 0.8514853
+
+9528f17c-a1b6-4cce-a68b-ed3a1d343241
+00:06:25.380 --> 00:06:27.540
+Do you have a team who comes up with
+
+NOTE Confidence: 0.8514853
+
+9500002f-7521-4a97-a1dc-2f9f71f76fbd
+00:06:27.540 --> 00:06:30.439
+the ideas and can you tell us about your
+
+NOTE Confidence: 0.8514853
+
+6e3e7e88-4050-4606-bb3a-48f06e1b93a4
+00:06:30.439 --> 00:06:32.539
+interactions with other IT professionals?
+
+NOTE Confidence: 0.8514853
+
+4f94a797-c26d-43bb-99c8-05f91af3d264
+00:06:32.540 --> 00:06:32.971
+OK,
+
+NOTE Confidence: 0.8514853
+
+dd406103-c24d-432b-9f01-c434dae9576b
+00:06:32.971 --> 00:06:35.126
+so I interact with quite
+
+NOTE Confidence: 0.8514853
+
+3002a4f3-2893-4f0b-b8f5-3fb891dcbf9a
+00:06:35.126 --> 00:06:37.739
+a lot of people at work.
+
+NOTE Confidence: 0.8514853
+
+6da1a5ca-dee7-47d8-80eb-ead25e43598d
+00:06:37.740 --> 00:06:40.190
+My team that the nature of systems
+
+NOTE Confidence: 0.8514853
+
+e9fb77aa-d65b-4fc7-b3d6-6578591c7989
+00:06:40.190 --> 00:06:41.951
+engineering team needs to be
+
+NOTE Confidence: 0.8514853
+
+d2b59e1b-b113-49ac-993f-41594ffb7992
+00:06:41.951 --> 00:06:43.551
+quite central in an organization
+
+NOTE Confidence: 0.8514853
+
+bfdf7944-1a78-4141-b380-2a07d4fbf8c5
+00:06:43.551 --> 00:06:45.699
+and what that means is because
+
+NOTE Confidence: 0.8514853
+
+07d55fbd-236b-459c-85d3-979a0626b757
+00:06:45.699 --> 00:06:47.574
+we create requirements that other
+
+NOTE Confidence: 0.8514853
+
+7482d991-56b8-4e91-89dd-179007ec2d50
+00:06:47.574 --> 00:06:49.290
+teams need to implement against.
+
+NOTE Confidence: 0.8514853
+
+5567644f-dddb-4771-b692-c73b4157a745
+00:06:49.290 --> 00:06:51.530
+We're talking with people in the hardware
+
+NOTE Confidence: 0.8514853
+
+bc835eb9-6285-4ded-bcf0-bbd1310d0d28
+00:06:51.581 --> 00:06:53.101
+organization where people talking
+
+NOTE Confidence: 0.8514853
+
+b365a7d5-7777-483d-966f-a63467b30f5b
+00:06:53.101 --> 00:06:55.381
+with people in the software organization.
+
+NOTE Confidence: 0.8514853
+
+ed2fd92d-3fe2-452f-90b6-ea35b11f43f0
+00:06:55.390 --> 00:06:57.676
+People in operations we talking to
+
+NOTE Confidence: 0.8514853
+
+4baf1342-29a5-4a55-a976-3a25d462fe60
+00:06:57.676 --> 00:06:59.981
+the product managers so that we
+
+NOTE Confidence: 0.8514853
+
+a145ea3d-c2d5-4305-b6ac-b20bab5a62d0
+00:06:59.981 --> 00:07:02.466
+can get all the inputs into these
+
+NOTE Confidence: 0.8514853
+
+30bbc175-1d46-42f5-94fe-8f6f4e415dd0
+00:07:02.466 --> 00:07:04.434
+requirements and then we start to
+
+NOTE Confidence: 0.8514853
+
+222f185c-9abe-46b4-a718-8cddb3c8f820
+00:07:04.434 --> 00:07:06.671
+cascade those out to other people
+
+NOTE Confidence: 0.8514853
+
+74644892-ddcf-4e78-a580-996743ab4c92
+00:07:06.671 --> 00:07:08.744
+in the organization.
+
+NOTE Confidence: 0.8514853
+
+e2cdf0c3-1e7c-4804-ba01-cc47d160ede1
+00:07:08.744 --> 00:07:10.126
+And so.
+
+NOTE Confidence: 0.8514853
+
+cbfbadf8-afe3-4953-97c2-7248dbf83878
+00:07:10.130 --> 00:07:10.431
+Yeah,
+
+NOTE Confidence: 0.8514853
+
+32853718-9970-4718-acd3-ef7465fb7d42
+00:07:10.431 --> 00:07:12.237
+I would probably group the people
+
+NOTE Confidence: 0.8514853
+
+8c8d4fe9-3fb0-4662-9554-52408aa0b771
+00:07:12.237 --> 00:07:13.570
+who I hope I was.
+
+NOTE Confidence: 0.8514853
+
+86975dc9-400d-44d3-9862-9246f79920d6
+00:07:13.570 --> 00:07:16.252
+Group the people that I deal with in four
+
+NOTE Confidence: 0.8514853
+
+48055ff4-0842-4542-8b5a-055265b02b7b
+00:07:16.252 --> 00:07:18.510
+categories there either like implementation.
+
+NOTE Confidence: 0.8514853
+
+067ee8c5-bf2e-43fd-ade0-ce2b6da18e34
+00:07:18.510 --> 00:07:20.418
+Engineers will, AKA developers,
+
+NOTE Confidence: 0.8514853
+
+d615b94b-95a2-4a60-8bb5-90a4496789ef
+00:07:20.418 --> 00:07:23.280
+people who make hardware and software
+
+NOTE Confidence: 0.8514853
+
+3ef134c0-09a2-4792-abd8-f95ae1119a9a
+00:07:23.353 --> 00:07:25.465
+and the other product managers who
+
+NOTE Confidence: 0.8514853
+
+7def2297-b700-4e72-8e44-6160e804535e
+00:07:25.465 --> 00:07:28.746
+are kind of like the voice of the customer.
+
+NOTE Confidence: 0.8514853
+
+1c9f5dde-def9-4732-a2e6-6ff869da4d8d
+00:07:28.750 --> 00:07:29.338
+There's operations,
+
+NOTE Confidence: 0.8514853
+
+d0f8a25a-f96b-496b-8135-f058178ab7ed
+00:07:29.338 --> 00:07:30.808
+people who finally deploy the
+
+NOTE Confidence: 0.8514853
+
+d0c000ea-1e94-4e8a-b63f-ca237ae67fe5
+00:07:30.808 --> 00:07:32.669
+system in the product in the road,
+
+NOTE Confidence: 0.8514853
+
+3e9827e6-3b0f-4354-baf2-0c6c373dae77
+00:07:32.670 --> 00:07:35.190
+and so we keep in close contact with them.
+
+NOTE Confidence: 0.8514853
+
+f4298fb4-26b3-4dda-840e-ff7a80976082
+00:07:35.190 --> 00:07:36.870
+And then there's the the administrative
+
+NOTE Confidence: 0.8514853
+
+492657c4-551a-4c8e-b137-308339dfd0d1
+00:07:36.870 --> 00:07:39.686
+side of the business, which is like legal.
+
+NOTE Confidence: 0.8514853
+
+7c782b46-5142-4ea6-a26c-f72cf0927c2b
+00:07:39.686 --> 00:07:42.230
+The legal team comp communications team.
+
+NOTE Confidence: 0.8514853
+
+b9e10ae6-8303-4111-b3c1-4c3ec1ae30e2
+00:07:42.230 --> 00:07:44.690
+Stuff like that.
+
+NOTE Confidence: 0.8514853
+
+97dfaf34-18bf-4de3-97d8-b41206df548d
+00:07:44.690 --> 00:07:47.994
+Yeah, who comes up with the ideas.
+
+NOTE Confidence: 0.8514853
+
+aa37c9d3-b1e5-4c18-9277-02ffebf89481
+00:07:48.000 --> 00:07:50.715
+While Google and Waymo's are
+
+NOTE Confidence: 0.8514853
+
+7f87b712-1f9e-473f-b247-1bdf95b98dde
+00:07:50.715 --> 00:07:52.887
+very collaborative company so.
+
+NOTE Confidence: 0.8514853
+
+ac8b1614-253a-4a0f-b1e2-58152b855442
+00:07:52.890 --> 00:07:56.010
+Uh, the ideas come from everywhere.
+
+NOTE Confidence: 0.8514853
+
+4c89a0cd-73df-4345-8334-a34460d56945
+00:07:56.010 --> 00:07:57.590
+Meaning you don't just have
+
+NOTE Confidence: 0.8514853
+
+9fc61140-b264-4d7c-9512-ba419d5ab3c6
+00:07:57.590 --> 00:07:59.170
+like one person sitting in
+
+NOTE Confidence: 0.82972044
+
+90cda1bc-4f6d-4a77-8d55-f3092df0132c
+00:07:59.238 --> 00:08:00.468
+a dark one of a room.
+
+NOTE Confidence: 0.82972044
+
+c53282cd-5bc5-447d-80f0-f8cdae1f6732
+00:08:00.470 --> 00:08:01.945
+Making decisions and ideas getting
+
+NOTE Confidence: 0.82972044
+
+01073694-375d-4f02-81a7-4d8ff26c85db
+00:08:01.945 --> 00:08:04.099
+pushed out to the rest of the team.
+
+NOTE Confidence: 0.82972044
+
+6279b697-d178-4296-ac54-46fbed33cb58
+00:08:04.100 --> 00:08:06.046
+The ideas really do come from everywhere,
+
+NOTE Confidence: 0.82972044
+
+fce1d617-8c00-4537-af07-d35233e9ee68
+00:08:06.050 --> 00:08:07.863
+and they don't just come from the
+
+NOTE Confidence: 0.82972044
+
+41eaf414-c7c1-405e-ae21-e14aeaf64fde
+00:08:07.863 --> 00:08:10.164
+top like the the CEO and the VP's
+
+NOTE Confidence: 0.82972044
+
+871e2cca-789d-4d7b-a58d-26f8bbe2d63a
+00:08:10.164 --> 00:08:11.629
+they come from middle managers.
+
+NOTE Confidence: 0.82972044
+
+837d1eba-5dea-48a7-be8b-dfbc2f5a7ed2
+00:08:11.630 --> 00:08:13.898
+They come from experts in in like
+
+NOTE Confidence: 0.82972044
+
+7834a8b5-9681-4ca6-9263-b27383fd0a95
+00:08:13.898 --> 00:08:15.290
+the different subject areas.
+
+NOTE Confidence: 0.82972044
+
+6b72de97-1ca5-4ad7-9a88-57b28d3c5372
+00:08:15.290 --> 00:08:18.522
+And then if an idea or a large
+
+NOTE Confidence: 0.82972044
+
+2087468f-dd09-4c44-b4c2-b0239de3f389
+00:08:18.522 --> 00:08:19.765
+one anyways, usually.
+
+NOTE Confidence: 0.82972044
+
+78d82ff7-f787-4e78-96c1-a6e067682941
+00:08:19.765 --> 00:08:21.940
+Impacting a number of teams,
+
+NOTE Confidence: 0.82972044
+
+ef9a707c-26cf-4367-86a8-7e9f21dc5cab
+00:08:21.940 --> 00:08:24.313
+and so the way we make decisions
+
+NOTE Confidence: 0.82972044
+
+f3a48e0a-f5b5-495c-9b7f-7dcc6f3bd46d
+00:08:24.313 --> 00:08:27.275
+is we come together as a group
+
+NOTE Confidence: 0.82972044
+
+f689d5ea-b2c9-47a0-a666-ef424cc76eb1
+00:08:27.275 --> 00:08:29.600
+of all the affected stakeholders.
+
+NOTE Confidence: 0.82972044
+
+8cd6d9e4-6cb8-447e-9e4d-a23ebe1cea10
+00:08:29.600 --> 00:08:31.679
+And usually if somebody has a proposal,
+
+NOTE Confidence: 0.82972044
+
+4b42fdc8-4e60-4a74-bbab-898bdb799234
+00:08:31.680 --> 00:08:33.294
+will say you know these are
+
+NOTE Confidence: 0.82972044
+
+a1a0759e-5695-498a-a32a-0a86e703f78c
+00:08:33.294 --> 00:08:34.950
+the elements of the proposal,
+
+NOTE Confidence: 0.82972044
+
+2f6e5757-dd4e-4825-8e6b-7cbb68c51f86
+00:08:34.950 --> 00:08:36.786
+we're proposing that we implement this
+
+NOTE Confidence: 0.82972044
+
+c7dec5c3-0290-49ec-9ce0-de39dada34d5
+00:08:36.786 --> 00:08:38.810
+certain feature or function into the system,
+
+NOTE Confidence: 0.82972044
+
+a26f94a3-fb65-4f2d-9178-e344561b6965
+00:08:38.810 --> 00:08:41.322
+and then we get all the impact that
+
+NOTE Confidence: 0.82972044
+
+76e2aae4-eb4f-437e-ad74-fc1cb9d844a4
+00:08:41.322 --> 00:08:43.558
+stakeholders kind of sound sign off and say,
+
+NOTE Confidence: 0.82972044
+
+a5a46f93-b512-4fc0-a824-99521559a63d
+00:08:43.560 --> 00:08:45.040
+Yep, I'm good with this.
+
+NOTE Confidence: 0.82972044
+
+ecbd1deb-a23c-4c8a-8a90-4a18a1b2c6b5
+00:08:45.040 --> 00:08:47.524
+I'm good with this and then
+
+NOTE Confidence: 0.82972044
+
+ba0d7daf-0504-41a8-8b4d-d95e03a068be
+00:08:47.524 --> 00:08:49.890
+we go on from there.
+
+NOTE Confidence: 0.82972044
+
+e599dcda-95a4-4124-ba47-712ce2bdf3c1
+00:08:49.890 --> 00:08:52.473
+OK, thank you so is that your
+
+NOTE Confidence: 0.82972044
+
+0e76210b-97f7-4628-95ba-a88485260d1c
+00:08:52.473 --> 00:08:54.610
+interaction with clients and investors?
+
+NOTE Confidence: 0.82972044
+
+0b52b260-03f9-4b40-a410-c3e3028785a6
+00:08:54.610 --> 00:08:56.178
+Would you say no?
+
+NOTE Confidence: 0.82972044
+
+a5b955ac-03d4-4676-944e-aa3845073b6e
+00:08:56.178 --> 00:08:56.570
+Actually,
+
+NOTE Confidence: 0.82972044
+
+988af7b1-c7fe-450c-a073-f5e4a6eda47b
+00:08:56.570 --> 00:08:58.928
+my most my team interacts mostly
+
+NOTE Confidence: 0.82972044
+
+8760841d-cd83-4313-b443-72268d4e637c
+00:08:58.928 --> 00:09:00.500
+with people in internally,
+
+NOTE Confidence: 0.82972044
+
+a6219d53-b7ae-476a-bdda-a057778088d3
+00:09:00.500 --> 00:09:01.688
+so the clients,
+
+NOTE Confidence: 0.82972044
+
+94d9d450-52f6-468a-894d-0e6936cf9d38
+00:09:01.688 --> 00:09:04.460
+our clients are mostly 'cause our business
+
+NOTE Confidence: 0.82972044
+
+5d4378ed-0957-4685-ae7c-b252952c60ec
+00:09:04.534 --> 00:09:06.790
+model is a ride hailing business.
+
+NOTE Confidence: 0.82972044
+
+1454e965-9663-4450-a61f-9f4183590f50
+00:09:06.790 --> 00:09:09.320
+It's trance transport as a
+
+NOTE Confidence: 0.82972044
+
+7dd8860c-ab82-4194-bd79-8ed07fb5c55b
+00:09:09.320 --> 00:09:12.540
+service like Uber kind of thing.
+
+NOTE Confidence: 0.82972044
+
+e9b47368-a35b-45db-809e-ef354c2fdf31
+00:09:12.540 --> 00:09:14.140
+So our clients are everyday
+
+NOTE Confidence: 0.82972044
+
+521c1d5f-ac93-4f2f-9248-c2d6e49f0cfc
+00:09:14.140 --> 00:09:16.012
+people who download the app and
+
+NOTE Confidence: 0.82972044
+
+46179ce7-b86d-49b1-8e24-315e7c501ab1
+00:09:16.012 --> 00:09:17.893
+you know want to go from A to B,
+
+NOTE Confidence: 0.82972044
+
+d7ecbca0-0fc5-48c6-b9f0-be0953d79fc6
+00:09:17.900 --> 00:09:19.706
+so that's more the product team who
+
+NOTE Confidence: 0.82972044
+
+fefd1822-742f-45b7-8724-604f83a042c9
+00:09:19.706 --> 00:09:21.647
+deals with them and our investors are,
+
+NOTE Confidence: 0.82972044
+
+af290398-794c-47db-b5d9-7f3d54faea13
+00:09:21.650 --> 00:09:22.358
+you know.
+
+NOTE Confidence: 0.82972044
+
+cc44360c-1b3b-4386-a8d1-d365622d3ff6
+00:09:22.358 --> 00:09:24.128
+Obviously people who invest within.
+
+NOTE Confidence: 0.82972044
+
+5e5d8bb8-fc20-48c5-8418-6625353d09a7
+00:09:24.130 --> 00:09:25.830
+In two way maranta Google.
+
+NOTE Confidence: 0.82972044
+
+b871d666-043b-4ca2-a7a0-fdf9e80477e6
+00:09:25.830 --> 00:09:28.644
+So my team deals mostly with the
+
+NOTE Confidence: 0.82972044
+
+d7a64682-d3c9-4e3f-8808-ec60eef9a915
+00:09:28.644 --> 00:09:30.906
+internal engineering teams and we also
+
+NOTE Confidence: 0.82972044
+
+2a44a977-9082-463a-ab30-7c731921cd90
+00:09:30.906 --> 00:09:33.195
+deal with the car company teams that
+
+NOTE Confidence: 0.82972044
+
+5ad49316-3760-4602-9ee1-24897ec7383c
+00:09:33.270 --> 00:09:36.000
+we developed the vehicles with together.
+
+NOTE Confidence: 0.82972044
+
+cab05754-c266-4214-a205-63ff70e4403d
+00:09:36.000 --> 00:09:36.433
+OK,
+
+NOTE Confidence: 0.82972044
+
+78004405-075f-4702-b170-b8ac8dfcb357
+00:09:36.433 --> 00:09:40.330
+so can you tell us what aspects of your
+
+NOTE Confidence: 0.82972044
+
+205a1a75-1e08-4b70-8181-cb25bc5ce1f7
+00:09:40.438 --> 00:09:44.070
+work do you spend your most time on?
+
+NOTE Confidence: 0.82972044
+
+46f57022-1f41-4748-b658-14edcb483377
+00:09:44.070 --> 00:09:47.106
+OK, so me personally 'cause I.
+
+NOTE Confidence: 0.82972044
+
+317c8f34-9732-4fbe-8f73-25ff71133e0a
+00:09:47.110 --> 00:09:49.980
+I I manage a pretty large team,
+
+NOTE Confidence: 0.82972044
+
+261a3b69-ea14-4b89-ab58-7db73b9e388a
+00:09:49.980 --> 00:09:52.440
+there's about 2020 people in the
+
+NOTE Confidence: 0.82972044
+
+8499a7a0-467a-4929-9fdb-51c040bf242b
+00:09:52.440 --> 00:09:55.283
+team and so personally most of my
+
+NOTE Confidence: 0.82972044
+
+1b1112f9-8f1b-402d-b1ff-16745f00978c
+00:09:55.283 --> 00:09:57.521
+time is spent on interactions with
+
+NOTE Confidence: 0.82972044
+
+7ff7cf85-aa63-4199-9b97-b631782277b2
+00:09:57.521 --> 00:10:00.138
+team members setting up basically.
+
+NOTE Confidence: 0.82972044
+
+f3077cc8-72d8-4e39-af2d-37f6ce884a6d
+00:10:00.140 --> 00:10:02.580
+The The plan and the strategy for for
+
+NOTE Confidence: 0.82972044
+
+7aac63f8-141b-415a-bdab-4c1ee23b891b
+00:10:02.580 --> 00:10:05.137
+our major work streams for the quarter.
+
+NOTE Confidence: 0.82972044
+
+5eaa3edb-c747-45e1-bdcc-c75c02a85e6d
+00:10:05.140 --> 00:10:06.320
+Let's say for example,
+
+NOTE Confidence: 0.82972044
+
+f0d2bf2d-1d36-454d-970f-e136f0790cb2
+00:10:06.320 --> 00:10:08.090
+and then making sure that you
+
+NOTE Confidence: 0.82972044
+
+8fc6fa62-bce5-4bed-aaae-bbd9bdff0e31
+00:10:08.148 --> 00:10:10.188
+know each person knows which part
+
+NOTE Confidence: 0.82972044
+
+7bfc6286-df4f-4e67-b9b9-2b1b72912ad1
+00:10:10.188 --> 00:10:11.962
+which part they're playing with
+
+NOTE Confidence: 0.82972044
+
+423ae45e-0028-4ef0-bf3e-34ef6c7fa2ba
+00:10:11.962 --> 00:10:13.717
+in within that workstream which
+
+NOTE Confidence: 0.82972044
+
+46f99158-9fa7-4ed4-bb72-64d293833cbf
+00:10:13.717 --> 00:10:15.121
+part the responsible for,
+
+NOTE Confidence: 0.82972044
+
+23ab86f9-82eb-4a53-95ca-b0a211918b72
+00:10:15.130 --> 00:10:17.092
+what the expectation is with respect
+
+NOTE Confidence: 0.82972044
+
+23d40052-eb5e-46bc-a3e6-3bbb26966f20
+00:10:17.092 --> 00:10:19.119
+to output in terms of quality,
+
+NOTE Confidence: 0.82972044
+
+424ff611-214c-448f-a1b3-360b2466a891
+00:10:19.120 --> 00:10:20.790
+timeline, that kind of thing.
+
+NOTE Confidence: 0.82972044
+
+502a78d1-9d6a-4919-84ec-41f3185ea4cc
+00:10:20.790 --> 00:10:22.062
+And then you know,
+
+NOTE Confidence: 0.82972044
+
+20506d6b-eb54-4ba5-ae62-82c15e9ffab7
+00:10:22.062 --> 00:10:23.652
+checking in with him regularly
+
+NOTE Confidence: 0.82972044
+
+bdcd6af2-23ac-4626-81c4-1b4945415958
+00:10:23.652 --> 00:10:25.654
+and steering them in the right
+
+NOTE Confidence: 0.82972044
+
+578a9915-15fb-4924-9b70-797c31f294fa
+00:10:25.654 --> 00:10:27.688
+direction to make sure that the
+
+NOTE Confidence: 0.82972044
+
+d47d0c44-e78d-4eac-a41e-a5309bab1aa7
+00:10:27.688 --> 00:10:29.438
+that the achieving that output.
+
+NOTE Confidence: 0.82972044
+
+a52a2489-da75-449e-827e-780cd166ac10
+00:10:29.440 --> 00:10:31.870
+So as far as like individual
+
+NOTE Confidence: 0.82972044
+
+a9627bb9-837a-4675-bf73-4e43e9e105c8
+00:10:31.870 --> 00:10:33.490
+contribution on technical topics.
+
+NOTE Confidence: 0.82972044
+
+cc1b70c9-a814-4fb3-80b6-06c843fcaed7
+00:10:33.490 --> 00:10:36.037
+I'm I'm less involved with on a daily basis,
+
+NOTE Confidence: 0.82972044
+
+11819901-da57-47dc-a4d9-a7264e50951b
+00:10:36.040 --> 00:10:38.014
+writing up proposals and things like that.
+
+NOTE Confidence: 0.82972044
+
+1ac80fe4-6cf4-4932-901f-0f6271435373
+00:10:38.020 --> 00:10:40.207
+My role is more of a of a managerial
+
+NOTE Confidence: 0.82972044
+
+3ecffa9d-bf70-41fd-b3e3-cfccb37c4b71
+00:10:40.207 --> 00:10:41.978
+one and review and auditing.
+
+NOTE Confidence: 0.82972044
+
+714ec9e3-7e12-4184-bcfd-594b9034ef44
+00:10:41.980 --> 00:10:43.468
+So when people come up with
+
+NOTE Confidence: 0.82972044
+
+4018d2f8-b17a-4253-951e-fcfd1a50b499
+00:10:43.468 --> 00:10:45.090
+the ideas or the documents,
+
+NOTE Confidence: 0.82972044
+
+912569cd-77bf-4e70-af3d-ececbdf51d67
+00:10:45.090 --> 00:10:46.788
+I'll usually serve as one of
+
+NOTE Confidence: 0.82972044
+
+9d2720eb-19b1-4233-b1e0-293eedae81df
+00:10:46.788 --> 00:10:48.210
+the reviewers to say, Yep,
+
+NOTE Confidence: 0.82972044
+
+ffab8f52-0b28-4bb3-9ef9-41834ce3347e
+00:10:48.210 --> 00:10:49.080
+this looks good.
+
+NOTE Confidence: 0.82972044
+
+1f02fc29-1b07-421e-859c-1bcc951ef634
+00:10:49.080 --> 00:10:51.040
+Let's let's let's go forward with it.
+
+NOTE Confidence: 0.9005646
+
+d811b626-14ce-4acd-bda9-18a77efa3f82
+00:10:53.320 --> 00:10:55.342
+And what other kinds of work
+
+NOTE Confidence: 0.9005646
+
+a4717bc5-7195-4c17-aa50-0da7ded9a1d5
+00:10:55.342 --> 00:10:57.450
+have you done in the past?
+
+NOTE Confidence: 0.9005646
+
+9e99cc09-afda-43b7-9c2a-31fef10b346f
+00:10:57.450 --> 00:10:59.868
+Automotive background so rather than like
+
+NOTE Confidence: 0.9005646
+
+22fa0fba-7c87-4c00-93fa-8b7e11588a6d
+00:10:59.868 --> 00:11:02.123
+a technology background so I started
+
+NOTE Confidence: 0.9005646
+
+dce7040d-191e-49b9-a833-4576ee4bc126
+00:11:02.123 --> 00:11:04.443
+working for Ford for a couple of years.
+
+NOTE Confidence: 0.9005646
+
+5b314de6-d1bc-490d-8327-d1264c436458
+00:11:04.450 --> 00:11:07.258
+I went to Toyota after that and I worked
+
+NOTE Confidence: 0.9005646
+
+80d791e3-da17-4a9a-8386-bb7d9d37d875
+00:11:07.258 --> 00:11:10.394
+up Toyota for about seven or eight years.
+
+NOTE Confidence: 0.9005646
+
+324d6e0d-4d9f-4788-b916-5e9ee87a5349
+00:11:10.400 --> 00:11:13.648
+We are working to nationally on some of
+
+NOTE Confidence: 0.9005646
+
+38d7101f-51af-4309-bf87-c361c62155c8
+00:11:13.648 --> 00:11:15.774
+their commercial vehicles like Hilux
+
+NOTE Confidence: 0.9005646
+
+24d6f1e9-3e67-4804-b4ef-ca25488d6e20
+00:11:15.774 --> 00:11:18.665
+and Land Cruiser and stuff like that.
+
+NOTE Confidence: 0.9005646
+
+bc3dad50-4643-4db2-b5d3-e44c133ec7df
+00:11:18.670 --> 00:11:20.910
+Then after that went to Silicon Valley
+
+NOTE Confidence: 0.9005646
+
+703454fc-b535-47e0-8fe0-8063644c2015
+00:11:20.910 --> 00:11:23.265
+with Tesla and so whereas Charter was
+
+NOTE Confidence: 0.9005646
+
+10fce7e0-8d26-42fb-8a05-be5e88818880
+00:11:23.265 --> 00:11:25.810
+like a a really conventional car company,
+
+NOTE Confidence: 0.9005646
+
+5d1b0653-0dbc-411c-a5df-4644ddbd3437
+00:11:25.810 --> 00:11:27.850
+Tesla was kind of like half
+
+NOTE Confidence: 0.9005646
+
+6034a372-8f55-4d79-bb53-e82516627f9c
+00:11:27.850 --> 00:11:28.530
+technology company,
+
+NOTE Confidence: 0.9005646
+
+0d377917-446c-4e14-81bb-534e6b2a6d90
+00:11:28.530 --> 00:11:31.464
+half car company and so that was a nice
+
+NOTE Confidence: 0.9005646
+
+a77e0faa-4c2b-4795-8274-e31d37d31491
+00:11:31.464 --> 00:11:33.630
+transition to before moving to Google.
+
+NOTE Confidence: 0.9005646
+
+250bfdb2-9114-43d5-a190-c601a34b70b5
+00:11:33.630 --> 00:11:36.010
+So after about a year in Tesla,
+
+NOTE Confidence: 0.9005646
+
+2dd0cc7c-4621-419e-9681-4e4d9541fa29
+00:11:36.010 --> 00:11:39.586
+Google came knocking and I I really like
+
+NOTE Confidence: 0.9005646
+
+d02d1061-bad6-4a0f-a83d-dc21550169c2
+00:11:39.586 --> 00:11:42.360
+the opportunity that offering and so I
+
+NOTE Confidence: 0.9005646
+
+4a862de3-d48c-4038-856c-b31873ffbc5f
+00:11:42.360 --> 00:11:45.997
+moved on to them after about a year in Tesla.
+
+NOTE Confidence: 0.9005646
+
+6131cbbf-0a25-46e7-8600-6bd25cd5f778
+00:11:46.000 --> 00:11:48.400
+Yeah, that's amazing.
+
+NOTE Confidence: 0.9005646
+
+41aa638f-4b77-4a2e-a571-0158bd5e8ef2
+00:11:48.400 --> 00:11:50.969
+Can you share an example of the
+
+NOTE Confidence: 0.9005646
+
+e63e6c7b-2140-4b49-8f45-0fc3d2b1602d
+00:11:50.969 --> 00:11:53.891
+work that you do that best captures
+
+NOTE Confidence: 0.9005646
+
+a4492b09-8de5-4ab5-ab38-430f7819255b
+00:11:53.891 --> 00:11:56.489
+the essence of the IT industry?
+
+NOTE Confidence: 0.9005646
+
+8ad98393-a9c0-407a-8afb-76b5d41349f6
+00:11:56.490 --> 00:11:59.990
+Wow so. At least one thing that's
+
+NOTE Confidence: 0.9005646
+
+8b149ffe-03f6-4f6a-8b3c-b8b89d4d9def
+00:11:59.990 --> 00:12:02.642
+been surprising to me, moving from,
+
+NOTE Confidence: 0.9005646
+
+25e8e076-8b6b-4e96-85e7-bd4f058b77f1
+00:12:02.642 --> 00:12:04.928
+let's say, the automotive industry to.
+
+NOTE Confidence: 0.9005646
+
+e8492aee-0098-4152-bab0-40c4976e5a06
+00:12:04.930 --> 00:12:07.986
+Uh, the technology industry as they call it,
+
+NOTE Confidence: 0.9005646
+
+1369ee5a-2b42-4591-a269-3baabb66637b
+00:12:07.990 --> 00:12:10.657
+we can see looking belly is this.
+
+NOTE Confidence: 0.9005646
+
+c26857fd-a9a5-4c74-8666-4072a22bfc1f
+00:12:10.660 --> 00:12:12.184
+Is this different approach
+
+NOTE Confidence: 0.9005646
+
+06de5bfd-0db7-420f-8454-44d38d3fa354
+00:12:12.184 --> 00:12:13.327
+towards product development,
+
+NOTE Confidence: 0.9005646
+
+ff609c6d-43a7-4890-9d65-a26bc8daa1aa
+00:12:13.330 --> 00:12:15.622
+so I'm not sure how familiar
+
+NOTE Confidence: 0.9005646
+
+e06a8a7c-58cc-414a-956c-fcc4629df143
+00:12:15.622 --> 00:12:17.150
+the team is with,
+
+NOTE Confidence: 0.9005646
+
+0a24f12f-2bfd-4a62-9e49-73356ae8eb8d
+00:12:17.150 --> 00:12:17.856
+you know,
+
+NOTE Confidence: 0.9005646
+
+d7536254-946e-4e29-80a6-19409c933854
+00:12:17.856 --> 00:12:19.974
+the agile development process versus the
+
+NOTE Confidence: 0.9005646
+
+6238b03e-66ca-42b8-b36d-1783ac429260
+00:12:19.974 --> 00:12:21.739
+waterfall waterfall development process.
+
+NOTE Confidence: 0.9005646
+
+97baafbd-203b-4e4f-b14c-7b08ae3d645a
+00:12:21.740 --> 00:12:24.620
+But the basic idea is that.
+
+NOTE Confidence: 0.9005646
+
+1c80ea1b-8e1a-4ea5-9a4f-58d528d342b1
+00:12:24.620 --> 00:12:26.204
+So the conventional way of developing
+
+NOTE Confidence: 0.9005646
+
+04bf147b-c744-4585-a8be-50c3ccb41e86
+00:12:26.204 --> 00:12:28.138
+hardware products is you do things very
+
+NOTE Confidence: 0.9005646
+
+f2e93f4e-acd7-4e94-beda-efe8c2cbdec3
+00:12:28.138 --> 00:12:29.800
+sequentially and it's like this waterfall
+
+NOTE Confidence: 0.9005646
+
+ed1fd9e2-ac7f-40a4-9814-a1966be4b3f1
+00:12:29.800 --> 00:12:31.359
+timeline where you write requirements.
+
+NOTE Confidence: 0.9005646
+
+2f5d0c9e-35a5-4c51-ac55-dce920f013ce
+00:12:31.360 --> 00:12:33.046
+You develop a product you prototype,
+
+NOTE Confidence: 0.9005646
+
+f36060fd-6743-442a-82d1-baa271e964de
+00:12:33.050 --> 00:12:33.982
+you test, redo it,
+
+NOTE Confidence: 0.9005646
+
+64a64d66-59bf-4003-a950-24ad95f1f41b
+00:12:33.982 --> 00:12:35.781
+and then you kind of go through
+
+NOTE Confidence: 0.9005646
+
+66674352-ab6f-4779-bf06-a548a2b45c8f
+00:12:35.781 --> 00:12:37.827
+this thing that takes this process.
+
+NOTE Confidence: 0.9005646
+
+fd4128dd-f417-4a2a-9e8f-8b89efc24240
+00:12:37.830 --> 00:12:39.685
+That usually takes quite a long time
+
+NOTE Confidence: 0.9005646
+
+1f5e7391-17ad-4ff6-ad45-38720349f889
+00:12:39.685 --> 00:12:41.698
+like it takes car companies for years
+
+NOTE Confidence: 0.9005646
+
+495ee9cf-8a62-4ed7-adbd-1d351afaaf68
+00:12:41.698 --> 00:12:43.444
+to develop and release the car,
+
+NOTE Confidence: 0.9005646
+
+e2a7cfa3-6c11-419a-a5ed-6426fcd300fe
+00:12:43.450 --> 00:12:46.096
+which is quite a long time.
+
+NOTE Confidence: 0.9005646
+
+93526a35-41f8-46c0-9fc6-7a2bfbc7f587
+00:12:46.100 --> 00:12:46.646
+Where's?
+
+NOTE Confidence: 0.9005646
+
+fcd93dd1-3163-49e3-980b-139eff54458d
+00:12:46.646 --> 00:12:48.830
+In the technology industry,
+
+NOTE Confidence: 0.9005646
+
+712caf5e-cf98-44f2-9d0a-dc8e1ecef08c
+00:12:48.830 --> 00:12:50.250
+'cause it's mostly based off
+
+NOTE Confidence: 0.9005646
+
+68155784-db3c-404e-8a21-cf66fc18dae0
+00:12:50.250 --> 00:12:51.670
+the way software is created,
+
+NOTE Confidence: 0.9005646
+
+d8274ed1-67d4-45b8-ab26-3c9437257cb8
+00:12:51.670 --> 00:12:54.239
+stuff can happen a lot more quickly.
+
+NOTE Confidence: 0.9005646
+
+6e01f66c-4a42-4010-9240-ba0bbbaf3d74
+00:12:54.240 --> 00:12:56.508
+Uh, and you know software is written
+
+NOTE Confidence: 0.9005646
+
+e9bb357f-e40f-49dc-be88-7d03e18a80e8
+00:12:56.508 --> 00:12:58.080
+so much more quickly.
+
+NOTE Confidence: 0.9005646
+
+ce9323f9-dd76-4cc4-9c60-f724a1be4b5c
+00:12:58.080 --> 00:12:59.124
+It's tested quicker,
+
+NOTE Confidence: 0.9005646
+
+9aec1924-3554-465a-bb0d-69d331b0155e
+00:12:59.124 --> 00:13:00.168
+it's deployed quicker,
+
+NOTE Confidence: 0.9005646
+
+8efc8069-eca9-4632-9a6a-ee46d2e4db1c
+00:13:00.170 --> 00:13:02.138
+you get feedback from the market
+
+NOTE Confidence: 0.9005646
+
+11b6977b-bcbc-42a5-9628-3bc03931b59b
+00:13:02.138 --> 00:13:04.708
+in the field a lot more quickly,
+
+NOTE Confidence: 0.9005646
+
+ebfdb47c-3ce7-41dd-bfc4-102319b65aea
+00:13:04.710 --> 00:13:07.366
+and so they work in sprints rather than
+
+NOTE Confidence: 0.9005646
+
+d4d41dc0-9cce-46e3-abe6-827b1212175d
+00:13:07.366 --> 00:13:09.600
+rather than this kind of waterfall,
+
+NOTE Confidence: 0.9005646
+
+62df4523-b720-4c92-b019-b81770239e05
+00:13:09.600 --> 00:13:10.296
+sequential method,
+
+NOTE Confidence: 0.9005646
+
+d7fe82e2-0b09-4c8b-b0ae-7246dea6187d
+00:13:10.296 --> 00:13:12.384
+and so there's like you know,
+
+NOTE Confidence: 0.9005646
+
+0888196a-6177-4b52-adc1-76e766cbc379
+00:13:12.390 --> 00:13:13.434
+two weeks sprints.
+
+NOTE Confidence: 0.9005646
+
+76b19f05-9d91-48de-ad2f-349038e40fbb
+00:13:13.434 --> 00:13:15.880
+Make a prototype, get it out there,
+
+NOTE Confidence: 0.9005646
+
+cef2f8ff-5346-4aaa-a018-ebbc8374c6c8
+00:13:15.880 --> 00:13:19.060
+test that, come back to experience an.
+
+NOTE Confidence: 0.9005646
+
+1b692d8b-3db0-4988-a273-af4bc55c2362
+00:13:19.060 --> 00:13:19.926
+And so.
+
+NOTE Confidence: 0.9005646
+
+82df952f-dc64-451d-b7e7-a08c6fe2e290
+00:13:19.926 --> 00:13:22.957
+Currently a portion of my team works
+
+NOTE Confidence: 0.9005646
+
+171b5279-1142-4df1-b055-a32da248b36d
+00:13:22.957 --> 00:13:25.916
+in this way, where the work is.
+
+NOTE Confidence: 0.9005646
+
+db710a31-dd0b-471e-8051-700ecf67c44b
+00:13:25.916 --> 00:13:28.310
+Is divided into much smaller pieces
+
+NOTE Confidence: 0.9005646
+
+8a42db1a-5c75-4d2a-b35a-2cb083d03572
+00:13:28.385 --> 00:13:30.749
+pieces and there they they work.
+
+NOTE Confidence: 0.9005646
+
+685640b0-b070-42e8-bf1d-84a38c5097ff
+00:13:30.750 --> 00:13:32.540
+In this series of sprints,
+
+NOTE Confidence: 0.9005646
+
+9cc16e5e-a518-41ae-a0ef-339444c036d6
+00:13:32.540 --> 00:13:34.956
+but I think that is one one element
+
+NOTE Confidence: 0.9005646
+
+f8b06760-a8da-4fbd-a42a-3d494fa01e04
+00:13:34.956 --> 00:13:37.452
+that kind of captures the essence of
+
+NOTE Confidence: 0.9005646
+
+b68770ab-d081-4918-9581-28ac3ca503bd
+00:13:37.452 --> 00:13:40.080
+kind of how technologies is developing.
+
+NOTE Confidence: 0.9005646
+
+38de116e-0fc4-42ef-9aa0-d60509714837
+00:13:40.080 --> 00:13:42.680
+Running Silicon Valley. Yep.
+
+NOTE Confidence: 0.9005646
+
+db370add-4e24-4e35-8daf-69292f0b9092
+00:13:42.680 --> 00:13:46.130
+Thank you, So what you know, sorry.
+
+NOTE Confidence: 0.9005646
+
+445df2fa-8905-45ff-9588-966f826c2191
+00:13:46.130 --> 00:13:48.205
+Would you know what technology
+
+NOTE Confidence: 0.9005646
+
+f1244196-afe5-47fc-aa5d-bb97a5af65b9
+00:13:48.205 --> 00:13:50.795
+tools or systems were designed that
+
+NOTE Confidence: 0.9005646
+
+d5694432-0485-4301-9988-b8d46d121dbc
+00:13:50.795 --> 00:13:53.005
+were not readily available before?
+
+NOTE Confidence: 0.9005646
+
+9c3f94e8-0bf6-4ef7-b49b-ddfeab6f2d22
+00:13:53.010 --> 00:13:55.160
+The way my project started?
+
+NOTE Confidence: 0.021433324
+
+236498dd-fc7b-459b-98a1-ab90a1fd6052
+00:13:57.460 --> 00:14:01.846
+Uhm? There would have been a few,
+
+NOTE Confidence: 0.021433324
+
+4197ae60-d9e5-40e8-b094-3bc473bd4266
+00:14:01.850 --> 00:14:05.498
+so a lot of the sensing.
+
+NOTE Confidence: 0.021433324
+
+44850cbf-ad8f-4c21-a2bb-a20bc08e2ded
+00:14:05.500 --> 00:14:07.580
+Oh, it's not like the
+
+NOTE Confidence: 0.021433324
+
+fd74fa6f-5e18-4c9f-9326-2afb6b11a55c
+00:14:07.580 --> 00:14:08.828
+technology didn't exist,
+
+NOTE Confidence: 0.021433324
+
+4ef7ae12-0a87-4958-ae4b-77a36a855918
+00:14:08.830 --> 00:14:11.637
+but it was very primitive and so
+
+NOTE Confidence: 0.021433324
+
+bd48c052-1c27-4b3a-9f2b-35dd04a072dd
+00:14:11.637 --> 00:14:14.239
+for example they did have radars.
+
+NOTE Confidence: 0.021433324
+
+e7843c0c-7789-4ade-87d7-c11cc21e44bf
+00:14:14.240 --> 00:14:16.315
+They did have lighters and
+
+NOTE Confidence: 0.021433324
+
+8a7f7d94-bffb-43ec-b8aa-2097801d7e7c
+00:14:16.315 --> 00:14:17.975
+they obviously had cameras.
+
+NOTE Confidence: 0.021433324
+
+25ca066a-820c-40bf-af22-d58fd359d846
+00:14:17.980 --> 00:14:20.404
+But since the self-driving as a
+
+NOTE Confidence: 0.021433324
+
+3ed3105a-dd7c-40da-83b2-ba13a536cf09
+00:14:20.404 --> 00:14:22.969
+as an objective has come along,
+
+NOTE Confidence: 0.021433324
+
+56908013-f244-4162-931e-c5a7378670a6
+00:14:22.970 --> 00:14:25.910
+it's forced a lot of these technologies
+
+NOTE Confidence: 0.021433324
+
+763df878-2922-45df-8b4c-a0076976fb12
+00:14:25.910 --> 00:14:28.018
+technology providers to to really
+
+NOTE Confidence: 0.021433324
+
+60247cb8-3a74-4945-8543-33bc1ef110bb
+00:14:28.018 --> 00:14:29.953
+accelerate the the increase in
+
+NOTE Confidence: 0.021433324
+
+dfd47966-fab8-4f58-b116-d178a14d0f69
+00:14:29.953 --> 00:14:32.119
+the capability of these devices,
+
+NOTE Confidence: 0.021433324
+
+1c516265-23e5-47db-967c-ebd47000c1de
+00:14:32.120 --> 00:14:34.616
+like the very first light Rs.
+
+NOTE Confidence: 0.021433324
+
+9fe26a9a-e32e-4d77-8c28-615fea8a5c1e
+00:14:34.620 --> 00:14:37.945
+10 years ago when this project started.
+
+NOTE Confidence: 0.021433324
+
+c23848da-49dd-4ee4-ab09-95868c6cacb3
+00:14:37.950 --> 00:14:40.254
+With super simple and you know in the
+
+NOTE Confidence: 0.021433324
+
+15504753-8171-4312-9f23-4c47e58d069b
+00:14:40.254 --> 00:14:42.538
+last 10 years I'm sure they wouldn't
+
+NOTE Confidence: 0.021433324
+
+e1d90df3-58c0-4806-8fb4-29198d1db50f
+00:14:42.538 --> 00:14:45.376
+have become as good as they have if
+
+NOTE Confidence: 0.021433324
+
+96aa0b66-0637-4c48-9682-47c572a46b5e
+00:14:45.376 --> 00:14:47.266
+if self-driving wasn't pushing the
+
+NOTE Confidence: 0.021433324
+
+2ad788f2-7f94-48ec-9f12-c7c74c8417d6
+00:14:47.266 --> 00:14:49.038
+industry to become more performance,
+
+NOTE Confidence: 0.021433324
+
+f9eba112-156c-4226-80a4-d1a63762c970
+00:14:49.038 --> 00:14:49.710
+more capable,
+
+NOTE Confidence: 0.021433324
+
+764f8a92-a57e-42f0-9280-4ab5acc1c1eb
+00:14:49.710 --> 00:14:51.050
+that kind of thing.
+
+NOTE Confidence: 0.83456516
+
+1356cdb7-20f2-4d06-a5f0-79e0bc97c0cd
+00:14:53.370 --> 00:14:55.393
+So it's hard for me to like
+
+NOTE Confidence: 0.83456516
+
+9f12473a-a8d9-4646-9576-03bac65211eb
+00:14:55.393 --> 00:14:57.496
+pick up one hardware technology
+
+NOTE Confidence: 0.83456516
+
+82f8e959-e1d8-4a6e-b93b-5a3822edaf15
+00:14:57.496 --> 00:14:59.816
+that that wasn't available.
+
+NOTE Confidence: 0.83456516
+
+221aeb38-a6db-400d-8304-582a11e1549f
+00:14:59.820 --> 00:15:01.875
+One software based technology that
+
+NOTE Confidence: 0.83456516
+
+4ae47dce-40bb-4c74-996a-37b96a766445
+00:15:01.875 --> 00:15:03.930
+certainly wasn't available was this
+
+NOTE Confidence: 0.83456516
+
+e71cb9a2-daa8-4c44-8f67-10ff706dd3e5
+00:15:03.991 --> 00:15:05.970
+idea of machine learning, machine
+
+NOTE Confidence: 0.83456516
+
+bef34258-0421-4f45-a2fc-75443fae7624
+00:15:05.970 --> 00:15:09.030
+learning and like deep neural networks.
+
+NOTE Confidence: 0.83456516
+
+9fcb5072-430b-4fa5-acca-e5bbe306f369
+00:15:09.030 --> 00:15:10.645
+I think they have emerged
+
+NOTE Confidence: 0.83456516
+
+7d9a67ad-19d2-4f4b-9c45-1571045100ea
+00:15:10.645 --> 00:15:11.937
+probably in the last.
+
+NOTE Confidence: 0.83456516
+
+ee2bf2bc-6f8a-45dc-83c0-22caf18ac862
+00:15:11.940 --> 00:15:12.837
+Let's say seriously,
+
+NOTE Confidence: 0.83456516
+
+b9e88cb9-2970-411c-9fcd-a1f258e49f06
+00:15:12.837 --> 00:15:14.930
+in the last five or six years.
+
+NOTE Confidence: 0.83456516
+
+7408d982-bd31-4648-918d-09f89a86ff2d
+00:15:14.930 --> 00:15:16.740
+And so leaving my implementation
+
+NOTE Confidence: 0.83456516
+
+6e84b8be-baec-4d86-a60a-5e0604125a58
+00:15:16.740 --> 00:15:19.244
+of the new networks to to this
+
+NOTE Confidence: 0.83456516
+
+fb1b69e4-3d45-44bd-89b5-565dc45c0a4c
+00:15:19.244 --> 00:15:21.104
+kind of a problem with something
+
+NOTE Confidence: 0.83456516
+
+94b3357c-3c3d-4af7-a578-fe3bdbfe8133
+00:15:21.104 --> 00:15:23.670
+that I think is emerged or to
+
+NOTE Confidence: 0.83456516
+
+30f93cd8-9248-431e-a81f-80879d749fea
+00:15:23.670 --> 00:15:25.174
+be developed throughout where
+
+NOTE Confidence: 0.83456516
+
+0f0fc3e5-9ccf-4f60-9a23-a62668f473a4
+00:15:25.174 --> 00:15:27.320
+most time does that make sense?
+
+NOTE Confidence: 0.83456516
+
+47f57dca-393a-4c5f-9885-004a5cf963e8
+00:15:27.320 --> 00:15:28.289
+Yeah, thank you.
+
+NOTE Confidence: 0.83456516
+
+173763d4-63ab-48db-b8ad-dbbdcbd18db3
+00:15:28.289 --> 00:15:30.550
+So our team project Idea is drive
+
+NOTE Confidence: 0.83456516
+
+6a1b5dbc-383c-44b8-9bb6-76b835541da9
+00:15:30.623 --> 00:15:32.561
+aware app and it was mainly
+
+NOTE Confidence: 0.83456516
+
+bf50cfa9-d8bc-425f-adf7-be17ed5558f6
+00:15:32.561 --> 00:15:34.727
+conceptual for the use of truck
+
+NOTE Confidence: 0.83456516
+
+a6c66cca-5af6-4e4b-9de0-ecfbc8f4fad7
+00:15:34.727 --> 00:15:36.331
+drivers and monitoring their
+
+NOTE Confidence: 0.83456516
+
+cf441630-00e5-440d-9a1c-4747c4cb3912
+00:15:36.331 --> 00:15:38.648
+vital signs and physical signs of
+
+NOTE Confidence: 0.83456516
+
+9e37f560-d99c-4e52-89f5-03ece2d097c5
+00:15:38.648 --> 00:15:40.418
+fatigue or lack of concentration.
+
+NOTE Confidence: 0.83456516
+
+8b5e9269-b2cd-47fb-b052-3986f158d5cb
+00:15:40.420 --> 00:15:42.933
+So would this be something that could
+
+NOTE Confidence: 0.83456516
+
+314f268f-90c0-4b2a-8d5e-3e3e28d36121
+00:15:42.933 --> 00:15:45.348
+be created on a wearable device?
+
+NOTE Confidence: 0.83456516
+
+f014ab46-26ec-416e-9c90-330a085f2dcd
+00:15:45.350 --> 00:15:47.315
+And possibly in conjunction with
+
+NOTE Confidence: 0.83456516
+
+8729a109-ac17-490e-af58-ee1a4acf2c2e
+00:15:47.315 --> 00:15:48.494
+automotive navigation systems
+
+NOTE Confidence: 0.83456516
+
+36b7aa52-b413-4fc1-a594-74762c0929e1
+00:15:48.494 --> 00:15:50.290
+to give the best results.
+
+NOTE Confidence: 0.83456516
+
+020f5223-7ab5-42d0-b8fe-8e1cd81c200f
+00:15:50.290 --> 00:15:52.826
+What do you think of this concept an
+
+NOTE Confidence: 0.83456516
+
+12acefbb-d36a-4236-86d1-fb629f07eccb
+00:15:52.826 --> 00:15:55.583
+are you aware of technology that is
+
+NOTE Confidence: 0.83456516
+
+dce09d93-c660-44f9-a0d8-fc70ac960f1a
+00:15:55.583 --> 00:15:58.649
+integrated into cars and what is monitored?
+
+NOTE Confidence: 0.83456516
+
+0a081f1b-d149-4b40-ae1b-e1e40827b159
+00:15:58.650 --> 00:15:59.030
+OK,
+
+NOTE Confidence: 0.83456516
+
+480fb94c-9d25-41d2-95ea-13adac2bd6b8
+00:15:59.030 --> 00:16:00.930
+I'll try and answer your
+
+NOTE Confidence: 0.83456516
+
+44ce4e90-b863-447e-8ac3-ea36c23c0257
+00:16:00.930 --> 00:16:02.450
+questions in reverse actually.
+
+NOTE Confidence: 0.83456516
+
+ced752bc-ec57-41c9-8ab2-6b326596d368
+00:16:02.450 --> 00:16:04.225
+So for starters Waymo also
+
+NOTE Confidence: 0.83456516
+
+b6d4ded8-c47c-40f0-9618-61c595ab3a2e
+00:16:04.225 --> 00:16:06.483
+works on not only self driving
+
+NOTE Confidence: 0.83456516
+
+50c04752-8ce4-404b-bc8c-a3c2ac212511
+00:16:06.483 --> 00:16:08.907
+cars but to move people around.
+
+NOTE Confidence: 0.83456516
+
+1ce27ded-e16d-4f83-a5ea-632dddde3f7d
+00:16:08.910 --> 00:16:11.298
+But self-driving trucks to carry cargo
+
+NOTE Confidence: 0.83456516
+
+6e59380a-2525-47de-ba7c-efd8fe7a0878
+00:16:11.298 --> 00:16:14.635
+around as well and so we do have some
+
+NOTE Confidence: 0.83456516
+
+ae60e5ff-c36c-4548-9b4e-d45179a00f31
+00:16:14.635 --> 00:16:17.010
+exposure to like the trucking industry.
+
+NOTE Confidence: 0.83456516
+
+853c174e-8763-46a5-afc5-88fc2ee3756a
+00:16:17.010 --> 00:16:19.770
+And the kind of the kind of day in the
+
+NOTE Confidence: 0.83456516
+
+7fb5161c-9b17-4339-868f-35d486ff81b5
+00:16:19.848 --> 00:16:22.536
+life of a typical truck driver today.
+
+NOTE Confidence: 0.83456516
+
+7332bf4f-9d81-4af7-bff0-98625c7bd292
+00:16:22.540 --> 00:16:24.808
+And so we're familiar with these challenges.
+
+NOTE Confidence: 0.8501799
+
+f92937e4-9b3d-4afc-90f7-59bd7bab4e50
+00:16:27.260 --> 00:16:29.115
+The function of driver monitoring
+
+NOTE Confidence: 0.8501799
+
+325b3a22-c7e0-4725-b191-6dd2f0d54b13
+00:16:29.115 --> 00:16:30.228
+is certainly important.
+
+NOTE Confidence: 0.8501799
+
+042620ed-1a1f-42d1-b1a7-7ca6520d6dda
+00:16:30.230 --> 00:16:32.085
+For example, when we're developing
+
+NOTE Confidence: 0.8501799
+
+72ea1582-1f4e-4181-8a20-8f62bb025ff4
+00:16:32.085 --> 00:16:33.198
+our self-driving system,
+
+NOTE Confidence: 0.8501799
+
+f4d3174f-a956-4dd3-806a-03e886b1e7a0
+00:16:33.200 --> 00:16:35.790
+a lot of our verification and validation.
+
+NOTE Confidence: 0.8501799
+
+6aeec0a7-a92a-413f-8589-1b797e25fafb
+00:16:35.790 --> 00:16:38.886
+Also, the validation is is built around the
+
+NOTE Confidence: 0.8501799
+
+7fd0254c-3c4a-43ee-9cb1-e6dcb0594651
+00:16:38.886 --> 00:16:42.100
+miles that we collect out in the real world,
+
+NOTE Confidence: 0.8501799
+
+31ef41bb-54c3-4da8-92da-b5d3c639b925
+00:16:42.100 --> 00:16:43.955
+and we collect those miles
+
+NOTE Confidence: 0.8501799
+
+34418f3d-3b83-44f7-818e-2b551835ba86
+00:16:43.955 --> 00:16:45.439
+with the system running,
+
+NOTE Confidence: 0.8501799
+
+75616f20-b402-491e-acd1-a4689425867e
+00:16:45.440 --> 00:16:48.192
+and it's in its autonomy mode with a
+
+NOTE Confidence: 0.8501799
+
+0bde9b2a-7990-4f52-8b26-cf815289135e
+00:16:48.192 --> 00:16:50.999
+human behind the wheel for safety reasons,
+
+NOTE Confidence: 0.8501799
+
+dd509dc4-9094-4f5a-b697-c72729f77a2c
+00:16:51.000 --> 00:16:54.069
+and so that human can be behind the wheel
+
+NOTE Confidence: 0.8501799
+
+1847c0fc-c312-411d-9b1c-86ecfb59d3c7
+00:16:54.069 --> 00:16:57.610
+for quite a long time collecting those miles.
+
+NOTE Confidence: 0.8501799
+
+7ff2ce4f-9287-4132-8194-32d24eeb3d9b
+00:16:57.610 --> 00:16:59.724
+So it's important from a safety perspective
+
+NOTE Confidence: 0.8501799
+
+646a3384-00b9-4eef-9a52-0640b373d5e3
+00:16:59.724 --> 00:17:01.870
+that we monitor them to make sure that.
+
+NOTE Confidence: 0.8501799
+
+845a41e1-6743-4f99-a7a6-301d32696554
+00:17:01.870 --> 00:17:04.446
+That while they're not driving the vehicle
+
+NOTE Confidence: 0.8501799
+
+5ee927b2-cf96-4d59-972c-790dcbe0e0be
+00:17:04.446 --> 00:17:06.890
+'cause they have to be alert and be
+
+NOTE Confidence: 0.8501799
+
+8a7a5642-332e-42af-bbed-baa821010d54
+00:17:06.890 --> 00:17:09.360
+ready to take over the truck at any time,
+
+NOTE Confidence: 0.8501799
+
+41570952-f6d3-40c1-8890-494b9cb5b791
+00:17:09.360 --> 00:17:10.795
+but because the the system
+
+NOTE Confidence: 0.8501799
+
+15c7a78f-98dc-47d2-bf48-070f9ff20c27
+00:17:10.795 --> 00:17:12.790
+is doing most of the driving,
+
+NOTE Confidence: 0.8501799
+
+f305e4b5-b166-43a0-a84b-008640b0bf5b
+00:17:12.790 --> 00:17:14.580
+it's actually probably more important
+
+NOTE Confidence: 0.8501799
+
+27766502-cfec-4b3a-aef5-b915dbd5290b
+00:17:14.580 --> 00:17:16.996
+to monitor the driver that they don't
+
+NOTE Confidence: 0.8501799
+
+cbe17e7e-12f6-42b3-a9e1-33b3dd696dbb
+00:17:16.996 --> 00:17:18.991
+fit in because they're not as engaged
+
+NOTE Confidence: 0.8501799
+
+5d4239e4-46bc-4ff7-868d-a547fa59552e
+00:17:18.991 --> 00:17:20.900
+as they are on a regular truck.
+
+NOTE Confidence: 0.8501799
+
+f324f4bd-8add-40fa-8830-96b3907ba506
+00:17:20.900 --> 00:17:22.460
+When you're when you're constantly
+
+NOTE Confidence: 0.8501799
+
+42759df8-1586-46ff-9828-40331d789a58
+00:17:22.460 --> 00:17:23.396
+controlling the vehicle.
+
+NOTE Confidence: 0.8501799
+
+037816ee-01f0-4a9f-90c5-56820652751f
+00:17:23.400 --> 00:17:25.577
+So anyway, that that being all said,
+
+NOTE Confidence: 0.8501799
+
+02a06027-2af3-4b97-b30b-e04eb50b2170
+00:17:25.580 --> 00:17:28.464
+I agree that the driver monitoring is.
+
+NOTE Confidence: 0.8501799
+
+4be401c3-8d71-446f-92ba-e57b53c8836b
+00:17:28.470 --> 00:17:30.516
+Is an important problem to solve,
+
+NOTE Confidence: 0.8501799
+
+82f78409-155a-4c92-a655-591324f4ae40
+00:17:30.520 --> 00:17:32.548
+especially for trucking.
+
+NOTE Confidence: 0.8501799
+
+b346c935-6929-4d12-b3dc-2e089b7d09cd
+00:17:32.550 --> 00:17:34.410
+There is a company out there
+
+NOTE Confidence: 0.8501799
+
+fee4d69a-4079-4154-9b54-6cbb41e9318c
+00:17:34.410 --> 00:17:35.340
+called seeing machines.
+
+NOTE Confidence: 0.8501799
+
+252dc996-0a0f-4dc7-bf68-ee3d30251a31
+00:17:35.340 --> 00:17:36.890
+It's actually an Australian company.
+
+NOTE Confidence: 0.8501799
+
+d747f4fe-87e0-4f55-89b7-ea2932d97e02
+00:17:36.890 --> 00:17:38.440
+Have you heard of these?
+
+NOTE Confidence: 0.8501799
+
+b80846e3-5f84-4e2e-9bbb-fef5b3170fbe
+00:17:38.440 --> 00:17:39.680
+These people before no?
+
+NOTE Confidence: 0.8501799
+
+5d53166e-c748-4d49-98fb-f348d128af0e
+00:17:39.680 --> 00:17:39.990
+OK,
+
+NOTE Confidence: 0.8501799
+
+187fdd75-1e78-477a-817f-9706e6d41ef4
+00:17:39.990 --> 00:17:42.102
+so you should check them out
+
+NOTE Confidence: 0.8501799
+
+85e7ce6f-c463-416d-9e42-3984cf5b3281
+00:17:42.102 --> 00:17:44.649
+there based in New South Wales I
+
+NOTE Confidence: 0.8501799
+
+890fa1df-5a90-4b7c-9fd8-d7634a813b35
+00:17:44.649 --> 00:17:47.113
+think and if they develop like a.
+
+NOTE Confidence: 0.8501799
+
+09eade2e-c07a-44a8-bee5-a6003b5e974f
+00:17:47.120 --> 00:17:49.612
+They develop a system that you can
+
+NOTE Confidence: 0.8501799
+
+861de1aa-2997-476c-9821-e6acac05349b
+00:17:49.612 --> 00:17:52.369
+basically plug and play on any car that is.
+
+NOTE Confidence: 0.8501799
+
+7f74ef66-8326-4cba-b536-efc2aec23ed1
+00:17:52.370 --> 00:17:53.650
+Fatigue monitoring via cameras.
+
+NOTE Confidence: 0.8501799
+
+eda6f9fe-7815-4f09-b812-33f191abed98
+00:17:53.650 --> 00:17:55.250
+It's a camera based system,
+
+NOTE Confidence: 0.8501799
+
+f4a6d5cc-65fc-49e7-b7e1-636f765cd201
+00:17:55.250 --> 00:17:57.954
+had A and it basically just takes your
+
+NOTE Confidence: 0.8501799
+
+0ffcdfbb-328e-4c3c-9656-0d576c237c7c
+00:17:57.954 --> 00:18:00.867
+eyes and it and it senses your fatigue
+
+NOTE Confidence: 0.8501799
+
+2a851ab9-8f4a-44a1-8577-0c6cc2d7daba
+00:18:00.867 --> 00:18:03.820
+levels based on what your eyes are doing.
+
+NOTE Confidence: 0.8501799
+
+3a0cb760-980f-4480-b6e1-48362db616f3
+00:18:03.820 --> 00:18:04.298
+Yeah,
+
+NOTE Confidence: 0.8501799
+
+231a85ab-29f8-4740-9b23-f1504330d3fc
+00:18:04.298 --> 00:18:07.644
+I've been doing really cool stuff like.
+
+NOTE Confidence: 0.8501799
+
+1746550e-f33f-4c6b-aee5-9c5aaa0676cb
+00:18:07.650 --> 00:18:07.906
+Example,
+
+NOTE Confidence: 0.8501799
+
+07ccce37-9f7f-4a9b-b451-dfffb1fa0050
+00:18:07.906 --> 00:18:09.698
+figuring out how to tell if people
+
+NOTE Confidence: 0.8501799
+
+767101dc-72b4-4a54-a94c-99b3ff70f356
+00:18:09.698 --> 00:18:11.074
+are fatigued wearing small wearing
+
+NOTE Confidence: 0.8501799
+
+8ae1c750-f4f4-4c75-9010-887272b0584a
+00:18:11.074 --> 00:18:12.964
+sunglasses and not only on your eyes,
+
+NOTE Confidence: 0.8501799
+
+49de0ba0-6489-4d0e-805f-dc1f7f38081d
+00:18:12.970 --> 00:18:15.355
+so they also in the head movement as well.
+
+NOTE Confidence: 0.8501799
+
+3aecd531-c9a0-4605-9b54-db2f51676415
+00:18:15.360 --> 00:18:17.152
+So if you start to droop your
+
+NOTE Confidence: 0.8501799
+
+010d4470-9eff-4400-826c-65de2507ca7c
+00:18:17.152 --> 00:18:18.560
+head and stuff like that.
+
+NOTE Confidence: 0.81843144
+
+2189f4f5-0e1a-4507-b08b-9751fc8f278a
+00:18:20.790 --> 00:18:23.980
+Algorithms are for that. That's.
+
+NOTE Confidence: 0.81843144
+
+1aba5dd1-b466-4ad9-bada-08ae9cef4642
+00:18:23.980 --> 00:18:25.740
+That's one technology that
+
+NOTE Confidence: 0.81843144
+
+31109793-d433-4547-bd4f-3299c3758e9a
+00:18:25.740 --> 00:18:29.032
+I'm aware of and now some car
+
+NOTE Confidence: 0.81843144
+
+dfacae32-411a-45bd-b781-df373f123b1f
+00:18:29.032 --> 00:18:31.552
+companies are either using seeing
+
+NOTE Confidence: 0.81843144
+
+53d3cea5-2228-4071-a9b6-a52275a073ef
+00:18:31.552 --> 00:18:34.029
+machines products in their cars.
+
+NOTE Confidence: 0.81843144
+
+516214b0-f58c-4133-b942-b13ec4aef6ef
+00:18:34.030 --> 00:18:36.490
+But they sell from the dealerships.
+
+NOTE Confidence: 0.81843144
+
+6b18483c-5dc6-4417-8e1a-1fd684f312b6
+00:18:36.490 --> 00:18:38.200
+All the developing their own camera
+
+NOTE Confidence: 0.81843144
+
+b4895dd1-acc7-4dc6-9505-ae63dfc3e425
+00:18:38.200 --> 00:18:39.871
+based thing like I know Tesla
+
+NOTE Confidence: 0.81843144
+
+020619e4-9ce5-466f-aa87-b22dc831d7f5
+00:18:39.871 --> 00:18:41.530
+has a little camera in the Model
+
+NOTE Confidence: 0.81843144
+
+457e2807-1efa-43bd-a86f-9425eda02bb2
+00:18:41.530 --> 00:18:43.287
+3 that looks at your eyes and
+
+NOTE Confidence: 0.81843144
+
+c9ae96ed-4721-4936-8d40-e7eea8cf8c11
+00:18:43.287 --> 00:18:44.780
+has a similar kind of algorithm.
+
+NOTE Confidence: 0.874926061818182
+
+2b68ff49-3a64-4644-b219-f104574f74e9
+00:18:48.140 --> 00:18:49.958
+So that. Yeah, that's that's one
+
+NOTE Confidence: 0.874926061818182
+
+e6c4a0c7-3131-4b6f-bcdf-99acafa764c2
+00:18:49.958 --> 00:18:51.560
+system that exists out there.
+
+NOTE Confidence: 0.874926061818182
+
+18164b85-9fb1-4e15-9df8-af01efbf298c
+00:18:51.560 --> 00:18:53.653
+I haven't actually seen a system which
+
+NOTE Confidence: 0.874926061818182
+
+89769a0d-4f74-4b22-86e4-18403c39f7da
+00:18:53.653 --> 00:18:57.650
+is based on a wearable device. Uhm?
+
+NOTE Confidence: 0.874926061818182
+
+278320e8-f037-4e6e-a7a6-a97c29dfa4d3
+00:18:57.650 --> 00:19:01.151
+And the the main reason for that is is
+
+NOTE Confidence: 0.874926061818182
+
+0c30efe1-a2fd-4465-ba2b-f52153dd6880
+00:19:01.151 --> 00:19:03.999
+because a lot of these systems will.
+
+NOTE Confidence: 0.874926061818182
+
+8f849175-ac04-49f3-ae1b-36b2d8ce1f77
+00:19:04.000 --> 00:19:05.705
+Determine whether you are tired
+
+NOTE Confidence: 0.874926061818182
+
+3fe2e104-b712-4482-be8c-bcc09c97c092
+00:19:05.705 --> 00:19:07.910
+or not based on looking at you.
+
+NOTE Confidence: 0.874926061818182
+
+05de3d24-ad50-4568-81bd-d9145b4a9e65
+00:19:07.910 --> 00:19:10.990
+So it's hard to look at you.
+
+NOTE Confidence: 0.874926061818182
+
+05b54a01-0e8d-4b41-8076-f08b08c37adf
+00:19:10.990 --> 00:19:13.141
+It's hard to look at you for the advice
+
+NOTE Confidence: 0.874926061818182
+
+e7e47268-6b94-4b70-aadd-8d6a4bb135cf
+00:19:13.141 --> 00:19:15.618
+that is on you somewhere that you're wearing.
+
+NOTE Confidence: 0.874926061818182
+
+02b1e4b7-bca2-4572-bb06-9a55ee31afc4
+00:19:15.620 --> 00:19:19.628
+Uhm? But being a wearable device, kind of,
+
+NOTE Confidence: 0.874926061818182
+
+7c61e413-80a1-4f89-b240-52d94cfb3cba
+00:19:19.628 --> 00:19:21.673
+I guess introduces new opportunities
+
+NOTE Confidence: 0.874926061818182
+
+76269bf1-9021-4619-89a4-01d486c597d0
+00:19:21.673 --> 00:19:23.630
+around monitoring your biometrics.
+
+NOTE Confidence: 0.874926061818182
+
+745b13dd-ce2c-44f3-bdcf-ac5ebf2da843
+00:19:23.630 --> 00:19:25.814
+And can you get a more accurate
+
+NOTE Confidence: 0.874926061818182
+
+f4165cca-e563-4850-a85c-e7fc1c07a06a
+00:19:25.814 --> 00:19:27.752
+description of how tight a person
+
+NOTE Confidence: 0.874926061818182
+
+167414be-f092-4ec6-a81e-4a9a41e38cc3
+00:19:27.752 --> 00:19:29.936
+is based on things like heart rate?
+
+NOTE Confidence: 0.874926061818182
+
+5145eecd-d3bc-44d2-9976-5453151be6f0
+00:19:29.940 --> 00:19:32.256
+You know movements like if you
+
+NOTE Confidence: 0.874926061818182
+
+26939564-137c-4e5f-ba22-dbe3f1df81fa
+00:19:32.256 --> 00:19:34.449
+haven't moved your arms in ages.
+
+NOTE Confidence: 0.874926061818182
+
+9398b0b0-d8ed-4620-bc5e-30e89efc9796
+00:19:34.450 --> 00:19:35.318
+You know, does that?
+
+NOTE Confidence: 0.874926061818182
+
+271da3bf-9667-4de2-a6ab-6cbec63800af
+00:19:35.318 --> 00:19:36.620
+Is that an indication that you're
+
+NOTE Confidence: 0.874926061818182
+
+7ea18d19-71ff-43f8-a1b6-125c1433b812
+00:19:36.668 --> 00:19:38.240
+getting tired or you're falling asleep?
+
+NOTE Confidence: 0.874926061818182
+
+d1e6a9af-7548-4d9f-9364-553a249dfb0b
+00:19:38.240 --> 00:19:40.980
+This kind of thing?
+
+NOTE Confidence: 0.874926061818182
+
+a2e764f1-d174-460b-8619-b53ef40597ee
+00:19:40.980 --> 00:19:43.416
+So I think there could be some.
+
+NOTE Confidence: 0.874926061818182
+
+c1263066-1c01-4f81-b91a-8d5625cb3929
+00:19:43.420 --> 00:19:45.196
+There could be some value in that concept,
+
+NOTE Confidence: 0.874926061818182
+
+3f14eec6-a625-45b6-8ccd-2a0a998b98ce
+00:19:45.200 --> 00:19:47.000
+I just.
+
+NOTE Confidence: 0.874926061818182
+
+f74c40bd-b4b1-494e-9374-750e9e3338e9
+00:19:47.000 --> 00:19:48.614
+Yeah, not sure how much exactly
+
+NOTE Confidence: 0.874926061818182
+
+30184b07-2287-4404-ba92-ce89db0c1b39
+00:19:48.614 --> 00:19:51.440
+not being an expert in it, right?
+
+NOTE Confidence: 0.874926061818182
+
+7263b1b0-6420-411f-b222-72dcdd4ac0dd
+00:19:51.440 --> 00:19:51.922
+Yeah,
+
+NOTE Confidence: 0.874926061818182
+
+ca39161b-2ad7-42b5-b671-e917a728287c
+00:19:51.922 --> 00:19:54.814
+and you're saying with an automotive
+
+NOTE Confidence: 0.874926061818182
+
+a8665403-628a-4673-bf49-97a88db73cac
+00:19:54.814 --> 00:19:57.638
+navigation system to get best results?
+
+NOTE Confidence: 0.874926061818182
+
+607a45e3-49c8-488f-bb12-e437d98c99b7
+00:19:57.640 --> 00:20:00.178
+What was the can you library?
+
+NOTE Confidence: 0.874926061818182
+
+85c9d3d7-89f3-4d07-aa5c-02c74e592c64
+00:20:00.180 --> 00:20:02.665
+And how the how you were thinking
+
+NOTE Confidence: 0.874926061818182
+
+aff27063-4900-49bf-a63d-f37d1f476245
+00:20:02.665 --> 00:20:04.176
+that navigation system might
+
+NOTE Confidence: 0.874926061818182
+
+b555b1f7-9753-4307-8899-49551c370a90
+00:20:04.176 --> 00:20:06.076
+pair with the wearable device.
+
+NOTE Confidence: 0.874926061818182
+
+c6327794-4a3b-4c5b-9852-5c11ac75d1cb
+00:20:06.080 --> 00:20:07.190
+So like yeah,
+
+NOTE Confidence: 0.874926061818182
+
+052cc9bc-b7c2-4a75-b5de-d6d289058d88
+00:20:07.190 --> 00:20:07.560
+so.
+
+NOTE Confidence: 0.77864534
+
+8bb25ca5-ef54-4238-9acb-03e8ee71aaa4
+00:20:09.690 --> 00:20:13.267
+If the wearable device, or for example,
+
+NOTE Confidence: 0.77864534
+
+189c71dd-73c3-490b-b88d-55c8be48b689
+00:20:13.270 --> 00:20:16.348
+that I watch the Apple Watch,
+
+NOTE Confidence: 0.77864534
+
+e00b0a36-f011-412f-89be-a60072e31740
+00:20:16.350 --> 00:20:20.438
+has the app so to monitor heart rate,
+
+NOTE Confidence: 0.77864534
+
+0f8e2043-cc49-4e78-8aa0-aac720879fab
+00:20:20.440 --> 00:20:23.905
+all that other things and then the
+
+NOTE Confidence: 0.77864534
+
+f0aca22b-5d46-48e0-b535-699c4a5e439d
+00:20:23.905 --> 00:20:26.590
+navigation probably has Leica camera,
+
+NOTE Confidence: 0.77864534
+
+f041af78-f7d8-4c93-af94-bbf6db068ff7
+00:20:26.590 --> 00:20:31.126
+some type of camera in it to have those
+
+NOTE Confidence: 0.77864534
+
+ad8e6e23-5c25-4b7f-9713-018bcc92eb1e
+00:20:31.126 --> 00:20:35.291
+vital lock the signs of the eyes, maybe,
+
+NOTE Confidence: 0.77864534
+
+8b5e14ce-9288-4fdb-83fe-141649c03567
+00:20:35.291 --> 00:20:39.259
+but that was kind of right concept, yeah?
+
+NOTE Confidence: 0.77864534
+
+2161b2ce-d648-41ef-a99a-91df2ab10ff1
+00:20:39.259 --> 00:20:41.982
+So you're talking about the actual the
+
+NOTE Confidence: 0.77864534
+
+49599480-1c84-4a63-a03b-6ef7900084c3
+00:20:41.982 --> 00:20:43.973
+navigation hardware stack in the car
+
+NOTE Confidence: 0.77864534
+
+ffcd7473-5b88-4477-916e-b7b813797ba9
+00:20:43.973 --> 00:20:46.300
+and in any hardware that might have not,
+
+NOTE Confidence: 0.77864534
+
+6e553a1a-5215-49dd-ac51-6f4ecac77f8e
+00:20:46.300 --> 00:20:47.444
+rather than the actual.
+
+NOTE Confidence: 0.77864534
+
+cb9cf549-55b6-46ff-92a7-62455acd892e
+00:20:47.444 --> 00:20:49.160
+I thought you were talking about
+
+NOTE Confidence: 0.77864534
+
+6b5b46e7-becf-45d7-8225-1f47e3aa90b3
+00:20:49.219 --> 00:20:50.959
+the Maps like a navigation system.
+
+NOTE Confidence: 0.77864534
+
+b3c7adad-473d-43ed-aeb6-0427a8522905
+00:20:50.960 --> 00:20:53.305
+That would tell you give you directions
+
+NOTE Confidence: 0.77864534
+
+345a60f4-2762-4c25-903b-1878c2dba05f
+00:20:53.305 --> 00:20:56.090
+of where to go or something like that.
+
+NOTE Confidence: 0.77864534
+
+9c3b8a25-23b1-49f0-b5ea-44f967519b34
+00:20:56.090 --> 00:20:58.400
+Yeah, I guess it's just a an
+
+NOTE Confidence: 0.77864534
+
+b3428f74-131b-4dbb-8563-60410d938b7c
+00:20:58.400 --> 00:21:00.678
+idea for now that we're yes,
+
+NOTE Confidence: 0.77864534
+
+aa105349-4018-4d65-a633-ea0e17c75ff1
+00:21:00.680 --> 00:21:04.586
+they're working on as a team so.
+
+NOTE Confidence: 0.77864534
+
+3fd6a884-e68f-4378-8365-cdb47b0a8682
+00:21:04.590 --> 00:21:11.156
+Yeah, it's good to know you're important.
+
+NOTE Confidence: 0.77864534
+
+6abb2664-b233-4ac4-8c24-5e150bdb4452
+00:21:11.160 --> 00:21:11.748
+Panom, yes,
+
+NOTE Confidence: 0.77864534
+
+61847d65-8df0-44ea-a1df-ce115ed12e65
+00:21:11.748 --> 00:21:14.100
+I thank you once again for your time.
+
+NOTE Confidence: 0.77864534
+
+940c2e90-e149-4391-ad35-4497b887ea14
+00:21:14.100 --> 00:21:16.268
+It was wonderful to do the interview and
+
+NOTE Confidence: 0.77864534
+
+ef73516b-dd74-4045-a264-c5292b16a338
+00:21:16.268 --> 00:21:18.719
+get some of your insight on how your
+
+NOTE Confidence: 0.77864534
+
+9405985c-2dfa-47f0-91bc-95a963a18c9d
+00:21:18.719 --> 00:21:20.569
+professional life is working at Google.
+
+NOTE Confidence: 0.77864534
+
+b57accbc-72d8-4f27-ae9b-9786890ef1f6
+00:21:20.570 --> 00:21:22.628
+And you know you've had a very
+
+NOTE Confidence: 0.77864534
+
+f50e698f-1c9c-4a63-b638-12936b3b99e3
+00:21:22.628 --> 00:21:23.800
+interesting career so far.
+
+NOTE Confidence: 0.77864534
+
+893c993e-3f6c-450a-bdc9-32ea2049f1bf
+00:21:23.800 --> 00:21:24.390
+Well done.
+
+NOTE Confidence: 0.8410666
+
+b4f6c086-fb72-4481-9e2a-d7387c1f4ca5
+00:21:26.580 --> 00:21:27.865
+No problem, thanks for asking
+
+NOTE Confidence: 0.8410666
+
+6985e0c1-e6d8-4e71-97f8-d712d949594e
+00:21:27.865 --> 00:21:30.129
+me to be a part of your project.
+
+NOTE Confidence: 0.8410666
+
+4165cc0b-8e36-4408-8544-a29294fd7e3a
+00:21:30.130 --> 00:21:32.587
+I wish you and the team all the best.
+
+NOTE Confidence: 0.8410666
+
+810f748d-fec2-4eca-8a22-c1091e68912e
+00:21:32.590 --> 00:21:35.100
+Sounds exciting. Nice thanks.
+
+NOTE Confidence: 0.87055767
+
+39ba920f-c2ce-43d3-bbc8-4854d61a06f6
+00:21:39.270 --> 00:21:41.760
+OK, so.
+
