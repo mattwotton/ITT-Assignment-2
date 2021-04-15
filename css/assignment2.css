@@ -1544,4 +1544,6 @@ article2:last-child {
     color:rgb(254, 254, 255);
    font-size:20px;
     padding: 50px 150px 50px 150px;
+    border-right: white solid 100px;
+    border-left: white solid 100px;
   }
