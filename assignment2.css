@@ -40,12 +40,13 @@
   text-decoration: none;
 }
 
-*/
+
 
 
 /*
  * Dummy devices (replace them with your own or something else entirely!)
  */
+
 
 .product-device {
   position: absolute;
@@ -1489,7 +1490,7 @@ article2:last-child {
 /* Wrappers */
 
 .wrapper {
-  /*background-image: url("images/bg.png"); 
+  /*background-image: url("images/bg.png");
   box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);*/
   padding: 3em 0 8em 0;
   text-align: center;
@@ -1504,7 +1505,7 @@ article2:last-child {
   .wrapper.style3 {
     background-color: rgb(22,103,141);
     color: white;
-    
+
   }
 
   .wrapper.style4 {
@@ -1533,7 +1534,7 @@ article2:last-child {
   /* Liljana's css */
   article3, section3 {
     display: block;}
- 
+
     section3 > :last-child,
     article3 > :last-child,
     section3:last-child,
@@ -1546,3 +1547,11 @@ article2:last-child {
    font-size:20px;
     padding: 50px 150px 50px 150px;
   }
+
+
+/* Gerard's css changing background for heading bar */
+
+ .fadehead {
+  background-color: rgba(255, 0, 0, 0.5);
+  font-size: 16;
+}

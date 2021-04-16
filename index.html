@@ -28,17 +28,14 @@
 
 <body>
 
-  <header class="site-header sticky-top py-1">
+<!-- this is the part I can't get to work, it used to link to Custom translucent site header
+on the CSS file but it doesn't do that when I take it away from being commented out
+Have put a background colour in RGBA using style.  Just plain white to have a look at -->
+  <header class="site-header sticky-top py-1" style="background-color: rgba(255, 255, 255, 0.7)">
 
     <nav class="container d-flex flex-column flex-md-row justify-content-between nav-bg a2-container">
 
-      <a class="py-2" href="#" aria-label="Product">
 
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="d-block mx-auto" role="img" viewBox="0 0 24 24">
-
-        <circle cx="12" cy="12" r="10"/><path d="M14.31 8l5.74 9.94M9.69 8h11.48M7.38 12l5.74-9.94M9.69 16L3.95 6.06M14.31 16H2.83m13.79-4l-5.74 9.94"/>
-      </svg>
-    </a>
             <a class="py-2 d-none d-md-inline-block" href="index.html">HOME</a>
 
             <a class="py-2 d-none d-md-inline-block" href="https://s3903477.github.io/ITT-Assignment1/#header">Chris </a>
@@ -72,9 +69,7 @@
 
         <h1 class="display-4 fw-normal text">DAT Team</h1>
 
-        <!--
-        <p class="lead fw-normal">An assignment 2 group named after the project DAT - Drive Aware Technology</p>
-        -->
+
 
         <p>Welcome to the Drive Aware Tech Team (DAT Team) group page. </p>
 
@@ -125,17 +120,17 @@
       <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
         <div class="my-3 p-3">
 
-          <h2 class="display-5">A look at working in Information Technology</h2>
+          <h2 class="display-5">IT Work</h2>
 
-          <p class="lead">Including an interview with Daniel, a System Engineer Manager at Google who works on the Waymo Project</p>
+          <p class="lead">An interview with Daniel, a System Engineer Manager at Google working on the Waymo Project</p>
 
-          <a class="btn btn-outline-secondary" href="Interview.html">I.T Work</a>
+          <a class="btn btn-outline-secondary" href="Interview.html">IT Work</a>
 
         </div>
         <div > <img src="assets/LJAvitarLaptop.jpg" class="mx-auto m-2" style="width: 50%; height: 300px; border-radius: 21px 21px 0 0;"> </div>
 
       </div>
-    
+
     </div>
 
 
@@ -146,7 +141,7 @@
 
           <h2 class="display-5">Ideal Jobs</h2>
 
-          <p class="lead">The team were asked to explore their ideal job. The link below shows the comparison and contrast for the chosen jobs for each team member.</p>
+          <p class="lead">The team were asked find their ideal job. This is an exploration of the roles they chose</p>
 
           <a class="btn btn-outline-secondary" href="Ideal_Jobs.html">Ideal Jobs</a>
 
@@ -155,7 +150,7 @@
 
           <h2 class="display-5">Industry Data</h2>
 
-          <p class="lead">Analysis of each ideal job chosen against Burning Glass data.</p>
+          <p class="lead">Using Burning Glass data, the skills needed and demand for the ideal jobs are assessed </p>
 
           <a class="btn btn-outline-secondary" href="Industry_Data.html">Industry Data</a>
 
@@ -163,9 +158,7 @@
           <div > <img src="assets/industryDataImage.jpg" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"> </div>
         </div>
 
-      <!--<div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
 
-       </div>-->
 
       </div>
 
@@ -176,7 +169,7 @@
 
           <h2 class="display-5">The DAT Project</h2>
 
-          <p class="lead">The development of an app that aims to save lives by monitoring driver's biometrics and alerting them to their fatigue levels</div>
+          <p class="lead">The development of an app that aims to save lives by monitoring driver's biometrics and alerting to signs they are fatigued</div>
 
         <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
 
@@ -185,101 +178,69 @@
       </div>
     </div>
 
-    <!-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-      <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-        <div class="my-3 p-3">
-          <h2 class="display-5"></h2>
-          <p class="lead"></p>
-        </div>
-        <div class="bg-body shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-      </div> -->
-      <!-- <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-        <div class="my-3 py-3">
-          <h2 class="display-5">Another headline</h2>
-          <p class="lead">And an even wittier subheading.</p>
-        </div>
-        <div class="bg-body shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-      </div>
-    </div> -->
-  <!--
-    <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-      <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-        <div class="my-3 p-3">
-          <h2 class="display-5">Another headline</h2>
-          <p class="lead">And an even wittier subheading.</p>
-        </div>
-        <div class="bg-body shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-      </div>
-      <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-        <div class="my-3 py-3">
-          <h2 class="display-5">Another headline</h2>
-          <p class="lead">And an even wittier subheading.</p>
-        </div>
-        <div class="bg-body shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-      </div>
-    </div> -->
+
   </main>
 
-  <footer class="container py-5">
+  <footer class="container py-5" >
+    <h3>References</h3>
     <div class="row">
-      <div class="col-12 col-md">
 
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="d-block mb-2" role="img" viewBox="0 0 24 24"><title>Product</title><circle cx="12" cy="12" r="10"/><path d="M14.31 8l5.74 9.94M9.69 8h11.48M7.38 12l5.74-9.94M9.69 16L3.95 6.06M14.31 16H2.83m13.79-4l-5.74 9.94"/></svg>
-
-        <small class="d-block mb-3 text-muted">&copy; 2017–2021</small>
-
-      </div>
 
       <div class="col-6 col-md">
 
-        <h5>Features</h5>
+
 
         <ul class="list-unstyled text-small">
-          <li><a class="link-secondary" href="#">Cool stuff</a></li>
-          <li><a class="link-secondary" href="#">Random feature</a></li>
-          <li><a class="link-secondary" href="#">Team feature</a></li>
-          <li><a class="link-secondary" href="#">Stuff for developers</a></li>
-          <li><a class="link-secondary" href="#">Another one</a></li>
-          <li><a class="link-secondary" href="#">Last time</a></li>
+
+          <li><a class="link-secondary" href="Ref_Mach_Learn.html">Machine Learning</a></li>
+          <li><a class="link-secondary" href="Ref_Auto_Vehic.html">Autonomous Vehicles</a></li>
+          <li><a class="link-secondary" href="Ref_Robotics.html">Robotics</a></li>
+          <li><a class="link-secondary" href="Ref_Small_Comp.html">Small Computing Devices</a></li>
+
         </ul>
 
       </div>
 
       <div class="col-6 col-md">
 
-        <h5>Resources</h5>
+
 
         <ul class="list-unstyled text-small">
-          <li><a class="link-secondary" href="#">Resource name</a></li>
-          <li><a class="link-secondary" href="#">Resource</a></li>
-          <li><a class="link-secondary" href="#">Another resource</a></li>
-          <li><a class="link-secondary" href="#">Final resource</a></li>
+          <li><a class="link-secondary" href="Ref_IT_Work.html">IT Work</a></li>
+
         </ul>
 
       </div>
 
       <div class="col-6 col-md">
 
-        <h5>Resources</h5>
+
 
         <ul class="list-unstyled text-small">
-          <li><a class="link-secondary" href="#">Business</a></li>
-          <li><a class="link-secondary" href="#">Education</a></li>
-          <li><a class="link-secondary" href="#">Government</a></li>
-          <li><a class="link-secondary" href="#">Gaming</a></li>
+          <li><a class="link-secondary" href="Ref_Ideal_Jobs.html">Ideal Jobs</a></li>
+          <li><a class="link-secondary" href="Ref_Ind_data.html">Industry Data</a></li>
+
         </ul>
 
       </div>
 
       <div class="col-6 col-md">
 
-        <h5>About</h5>
+
 
         <ul class="list-unstyled text-small">
-          <li><a class="link-secondary" href="#">Team</a></li>
-          <li><a class="link-secondary" href="#">Locations</a></li>
-          <li><a class="link-secondary" href="#">Privacy</a></li>
-          <li><a class="link-secondary" href="#">Terms</a></li>
+          <li><a class="link-secondary" href="Ref_Project.html">DAT Project</a></li>
+          <li><a class="link-secondary" href="Ref_Lit_Review.html">Project Literature Review</a></li>
+
+        </ul>
+
+      </div>
+      <div class="col-6 col-md">
+
+        <ul class="list-unstyled text-small">
+          <li><a class="link-secondary" href="Ref_General.html">General</a></li>
+
+
         </ul>
 
       </div>
