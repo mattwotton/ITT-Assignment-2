@@ -1534,7 +1534,7 @@ article2:last-child {
     margin: 0px 100px 0px 100px;
   }
 
-
+  
 /* Tables */
 
   table {
@@ -1568,6 +1568,6 @@ article2:last-child {
     color:rgb(254, 254, 255);
    font-size:20px;
     padding: 50px 150px 50px 150px;
-    border-right: white solid 100px;
-    border-left: white solid 100px;
+    border-right: white solid 20px;
+    border-left: white solid 20px;
   }
