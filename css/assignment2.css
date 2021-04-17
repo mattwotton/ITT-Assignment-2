@@ -1571,3 +1571,15 @@ article2:last-child {
     border-right: white solid 20px;
     border-left: white solid 20px;
   }
+#imagesMain {
+  padding:0;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  text-align:left;
+}
+#imagesMain img {
+height:280px;
+width:450px;
+vertical-align:middle;
+}
