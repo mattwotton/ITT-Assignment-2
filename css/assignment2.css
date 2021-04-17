@@ -1504,7 +1504,7 @@ article2:last-child {
     background-color:rgb(195, 222, 248);
     color: black;
     font-size: 20px;
-    padding: 0px 200px 0px 200px;
+    padding: 0px 150px 0px 150px;
     margin: -20px 50px 0px 50px;
     font-style: justify;
   }
@@ -1519,6 +1519,21 @@ article2:last-child {
     background-color:lightgrey;
     color: rgb(22,103,141);
   }
+
+  .wrapper.style7 {
+    background-color: rgb(1, 1, 22);
+    color: rgb(22,103,141);
+    font-size: 20px;
+    margin: 0px 100px 0px 100px;
+  }
+
+  .wrapper.style8 {
+    background-color:teal ;
+    color: white;
+    font-size: 20px;
+    margin: 0px 100px 0px 100px;
+  }
+
 
 /* Tables */
 
