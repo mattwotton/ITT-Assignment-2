@@ -19,6 +19,14 @@
   width: 15em;
 }
 
+.chris-banner {
+  height: 650px;
+}
+
+nav {
+  z-index: 100;
+}
+
 /*
  * Custom translucent site header
  */
