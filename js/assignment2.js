@@ -32,7 +32,7 @@ $(document).ready(function () {
   let sticky = navbar.offsetTop;
 
   // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
-  /*function myFunction() {
+  function myFunction() {
 
 
     if (window.pageYOffset > sticky) {
@@ -43,7 +43,7 @@ $(document).ready(function () {
       sticky = navbar.offsetTop -40;
     }
 
-  }*/
+  }
 
 });
 
@@ -110,14 +110,15 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-  "Chris",
-  "Gerard",
-  "Liljana",
-  "Nicole",
-  "Matt",
+  "DAT Team",
   "Intro to IT",
   "Assignment 2",
-  "DAT Team",];
+  "Gerard",
+  "Liljana",
+  "Matt",
+  "Nicole",
+  "Chris"
+];
 
 
 const el = document.querySelector(".text");
