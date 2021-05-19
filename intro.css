@@ -1,0 +1,39 @@
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  min-height: 100vh;
+  background-size: auto 150%;
+  background-position: var(--mouseX) var(--mouseY);
+  background-repeat: no-repeat;
+  background-image: url(../assets/Banner.jpg);
+}
+
+.btn:hover a {
+  color: #000;
+  text-decoration-color: #000;
+}
+
+.intro-btn {
+  border-color: #fff;
+  border-width: 2px;
+}
+
+.intro-btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+ul li {
+  color: #fff;
+}
+
+.fh {
+  display: unset;
+  height: 100vh;
+}

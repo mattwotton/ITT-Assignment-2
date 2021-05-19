@@ -1,0 +1,28 @@
+a {
+  text-decoration: none;
+}
+
+ul > li:hover > a:hover {
+  background: #0d6efd;
+  color: #fff;
+}
+
+.hero-image {
+  background-image: url(/assets/Banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.wrapper {
+  display: flex;
+  height: 100vh;
+}
+
+nav {
+  flex: 0 0 auto;
+}
+
+.section {
+  flex: 1 1 auto;
+  overflow: auto;
+}
